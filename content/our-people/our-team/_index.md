@@ -65,7 +65,7 @@ The UT team, led by Prof. Dr. J. van Hillegersberg, consist of 2 full professors
 
 University of Twente
 
-![Picture of prof.dr. J. van Hillegersberg \(Jos\)](images/.wh/ea/uc/ib7cb453f010158d61400d45c95021a4eb988204a86be0701c36400640085/jvanhillegersberg.avif)
+![Picture of prof.dr. J. van Hillegersberg \(Jos\)](images/team/j_vanhillegersberg.jpg)
 
 prof.dr. J. van Hillegersberg (Jos) Full Professor
 
@@ -73,7 +73,7 @@ prof.dr. J. van Hillegersberg (Jos) Full Professor
 
 [Personal page ](https://people.utwente.nl/j.vanhillegersberg)
 
-![Picture of prof.dr.ir. M.R.K. Mes \(Martijn\)](images/.wh/ea/uc/i17a21c2a010387b6f101d6f57003b054def400a614060701c36400640085/mrkmes.avif)
+![Picture of prof.dr.ir. M.R.K. Mes \(Martijn\)](images/team/m_r_k_mes.jpg)
 
 prof.dr.ir. M.R.K. Mes (Martijn) Full Professor
 
@@ -81,13 +81,13 @@ prof.dr.ir. M.R.K. Mes (Martijn) Full Professor
 
 [Personal page ](https://people.utwente.nl/m.r.k.mes)
 
-![Picture of J.R.O. Osterrieder \(Jörg\)](images/.wh/ea/uc/i85563b62010193e314006f72a302b0791b78ee8e9fc50701c36400640085/joergosterrieder.avif)
+![Picture of J.R.O. Osterrieder \(Jörg\)](images/team/joerg_osterrieder.jpg)
 
 J.R.O. Osterrieder (Jörg) Associate Professor of Artificial Intelligence and Finance
 
 [Personal page ](https://people.utwente.nl/joerg.osterrieder)
 
-![Picture of dr. M.R. Machado \(Marcos\)](images/.wh/ea/uc/iba3263af0101a7e21400b2cbac022ce3611f3003507e0701c36400640085/mrmachado.avif)
+![Picture of dr. M.R. Machado \(Marcos\)](images/team/m_r_machado.jpg)
 
 dr. M.R. Machado (Marcos) Assistant Professor
 
@@ -95,7 +95,7 @@ dr. M.R. Machado (Marcos) Assistant Professor
 
 [Personal page ](https://people.utwente.nl/m.r.machado)
 
-![Picture of dr. X. Huang \(Xiaohong\)](images/.wh/ea/uc/i90acca1b01033594f201f93b7403467451416b7cd5280701c36400640085/xhuang.avif)
+![Picture of dr. X. Huang \(Xiaohong\)](images/team/x_huang.jpg)
 
 dr. X. Huang (Xiaohong) Assistant Professor
 
@@ -111,7 +111,7 @@ dr. F.S. Bernard (Frédérik) Researcher
 
 [Personal page ](https://people.utwente.nl/f.s.bernard)
 
-![Picture of dr. C. Kolb \(Christina\)](images/.wh/ea/uc/iff75482c0103b1d6f0010e977c03988d29d3584864aa0701c36400640085/ckolb.avif)
+![Picture of dr. C. Kolb \(Christina\)](images/team/c_kolb.jpg)
 
 dr. C. Kolb (Christina) Assistant Professor
 
@@ -119,7 +119,7 @@ dr. C. Kolb (Christina) Assistant Professor
 
 [Personal page ](https://people.utwente.nl/c.kolb)
 
-![Picture of dr. R. Effing \(Robin\)](images/.wh/ea/uc/i7d142e2a010394b6f201825e8b032f73a4dccaf6b2ce0701c36400640085/reffing.avif)
+![Picture of dr. R. Effing \(Robin\)](images/team/r_effing.jpg)
 
 dr. R. Effing (Robin) Assistant Professor
 
@@ -127,7 +127,7 @@ dr. R. Effing (Robin) Assistant Professor
 
 [Personal page ](https://people.utwente.nl/r.effing)
 
-![Picture of A. Trivella \(Alessio\)](images/.wh/ea/uc/iacd0b8600103686ef201678a75037d3a0a5a79bd64080701c36400640085/atrivella.avif)
+![Picture of A. Trivella \(Alessio\)](images/team/a_trivella.jpg)
 
 A. Trivella (Alessio) Assistant Professor of Operations Research
 
@@ -135,7 +135,7 @@ A. Trivella (Alessio) Assistant Professor of Operations Research
 
 [Personal page ](https://people.utwente.nl/a.trivella)
 
-![Picture of dr. P. Khrennikova \(Polina\)](images/.wh/ea/uc/i262aade1010100e914000523a70288c985824e2f7b750701c36400640085/pkhrennikova.avif)
+![Picture of dr. P. Khrennikova \(Polina\)](images/team/p_khrennikova.jpg)
 
 dr. P. Khrennikova (Polina) Assistant Professor
 
@@ -143,7 +143,7 @@ dr. P. Khrennikova (Polina) Assistant Professor
 
 [Personal page ](https://people.utwente.nl/p.khrennikova)
 
-![Picture of dr. J.A. Hüllmann MSc \(Joschka\)](images/.wh/ea/uc/i96eab1e90101dce214000bf4ac0224b6e4386efa50df0701c36400640085/jhuellmann.avif)
+![Picture of dr. J.A. Hüllmann MSc \(Joschka\)](images/team/j_huellmann.jpg)
 
 dr. J.A. Hüllmann MSc (Joschka) Assistant Professor
 
