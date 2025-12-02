@@ -18,6 +18,7 @@ buildExpired = false
   page = ["HTML"]
   section = ["HTML", "RSS"]
 
+
 # Menu configuration
 [menu]
   [[menu.main]]
@@ -25,21 +26,25 @@ buildExpired = false
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Our People"
-    url = "/our-people/"
+    name = "About"
+    url = "/about/"
     weight = 2
   [[menu.main]]
-    name = "Research"
-    url = "/ing-ut-collaboration/research/"
+    name = "Team"
+    url = "/team/"
     weight = 3
   [[menu.main]]
-    name = "Education"
-    url = "/ing-ut-collaboration/education/"
+    name = "Research"
+    url = "/research/"
     weight = 4
   [[menu.main]]
-    name = "Output & Impact"
-    url = "/ing-ut-collaboration/output-and-impact/"
+    name = "Education"
+    url = "/education/"
     weight = 5
+  [[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 6
 
 # Theme parameters
 [params]

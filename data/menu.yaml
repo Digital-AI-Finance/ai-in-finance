@@ -1,123 +1,46 @@
 menu:
-  - name: "ING-UT | AI in Finance"
+  - name: "Home"
     url: "/"
     weight: 1
+  - name: "About"
+    url: "/about"
+    weight: 2
+  - name: "Team"
+    url: "/team"
+    weight: 3
     children:
-      - name: "Untitled"
-        url: "/.utwente_base/ws2016/download.shtml"
+      - name: "Students at ING"
+        url: "/team/students"
         weight: 1
-      - name: "AI in Finance"
-        url: "/events"
-        weight: 1
-        children:
-          - name: "MSCA Digital Finance PhD Training Week on Reinforcement Learning"
-            url: "/events/2025/2/91679/msca-digital-finance-phd-training-week-on-reinforcement-learning"
-            weight: 1
-      - name: "MSc Thesis Thomas Koene | Theses at ING | AI in Finance"
-        url: "/ing-theses/thesis-thomas-koene"
-        weight: 1
-      - name: "Overview | ING-UT Collaboration | AI in Finance"
-        url: "/ing-ut-collaboration"
+  - name: "Research"
+    url: "/research"
+    weight: 4
+    children:
+      - name: "Projects"
+        url: "/research/projects"
         weight: 1
         children:
-          - name: "Education | ING-UT Collaboration | AI in Finance"
-            url: "/ing-ut-collaboration/education"
+          - name: "AI in Finance (ING-UT)"
+            url: "/research/projects/ai-in-finance"
             weight: 1
-          - name: "Output & Impact | ING-UT Collaboration | AI in Finance"
-            url: "/ing-ut-collaboration/output-and-impact"
-            weight: 1
-          - name: "Research Projects | Research | AI in Finance"
-            url: "/ing-ut-collaboration/research"
-            weight: 1
-            children:
-              - name: "Overview of ING-UT theses"
-                url: "/ing-ut-collaboration/research/ing-theses"
-                weight: 1
-                children:
-                  - name: "MSc Thesis Amato Alessandra | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-amato-alessandra"
-                    weight: 1
-                  - name: "MSc Thesis Daniel Chen | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-daniel-chen"
-                    weight: 1
-                  - name: "MSc Thesis Dyon Kok | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-dyon-kok"
-                    weight: 1
-                  - name: "MSc Thesis Jaap Beltman | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-jaap-beltman"
-                    weight: 1
-                  - name: "MSc Thesis Jens Reil | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-jens-reil"
-                    weight: 1
-                  - name: "MSc Thesis Sebastian Goldmann | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-sebastian-goldmann"
-                    weight: 1
-                  - name: "MSc Thesis Stijn van der Pol | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-stijn-van-der-pol"
-                    weight: 1
-                  - name: "MSc Thesis Thomas Koene | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-thomas-koene"
-                    weight: 1
-                  - name: "MSc Thesis Vitalii Fishchuk | Theses at ING | AI in Finance"
-                    url: "/ing-ut-collaboration/research/ing-theses/thesis-vitalii-fishchuk"
-                    weight: 1
-      - name: "UT Alumni at ING | Our People | AI in Finance"
-        url: "/our-people"
-        weight: 1
-        children:
-          - name: "Our Team | AI in Finance"
-            url: "/our-people/our-team"
-            weight: 1
-          - name: "UT Students at ING | Our People | AI in Finance"
-            url: "/our-people/ut-students-at-ing"
-            weight: 1
-      - name: "Overview | Our Research Programme | AI in Finance"
-        url: "/the-digital-finance-research-programme"
-        weight: 1
-        children:
-          - name: "Overview | AI in Finance"
-            url: "/the-digital-finance-research-programme/ai-in-finance"
-            weight: 1
-            children:
-              - name: "Guest Lecture ING 2025 | AI in Finance"
-                url: "/the-digital-finance-research-programme/ai-in-finance/guest-lecture-ing-2025"
-                weight: 1
-              - name: "ING-UT Workshop Data Analytics and Quantitative Models in Banking and Academia"
-                url: "/the-digital-finance-research-programme/ai-in-finance/ing-ut-workshop-data-analytics-and-quantitative-models"
-                weight: 1
-              - name: "Project Leixin Zhang | AI in Finance"
-                url: "/the-digital-finance-research-programme/ai-in-finance/project-leixin-zhang"
-                weight: 1
-              - name: "ING-UT collaboration: AI in Finance | AI in Finance"
-                url: "/the-digital-finance-research-programme/ai-in-finance/university-of-twente-and-ing-bank-join-up-to-form-ai-in-finance"
-                weight: 1
-          - name: "Overview | COST FinAI | AI in Finance"
-            url: "/the-digital-finance-research-programme/cost-finai"
-            weight: 1
-          - name: "Overview | MSCA Digital Finance | AI in Finance"
-            url: "/the-digital-finance-research-programme/msca-digital-finance"
-            weight: 1
-            children:
-              - name: "Overview | Doctoral Training | AI in Finance"
-                url: "/the-digital-finance-research-programme/msca-digital-finance/doctoral-training"
-                weight: 1
-                children:
-                  - name: "Ethics in AI and Digital Finance Training Week | Doctoral Training | AI in Finance"
-                    url: "/the-digital-finance-research-programme/msca-digital-finance/doctoral-training/ethics-in-ai-and-digital-finance-training-week"
-                    weight: 1
-                  - name: "Reinforcement Learning in Digital Finance | Doctoral Training | AI in Finance"
-                    url: "/the-digital-finance-research-programme/msca-digital-finance/doctoral-training/reinforcement-learning-in-digital-finance"
-                    weight: 1
-              - name: "MSCA Digital Finance Mid Term Meeting | MSCA Digital Finance | AI in Finance"
-                url: "/the-digital-finance-research-programme/msca-digital-finance/msca-digital-finance-mid-term-meeting"
-                weight: 1
-          - name: "Overview | SNSF | AI in Finance"
-            url: "/the-digital-finance-research-programme/snsf"
-            weight: 1
-            children:
-              - name: "Narrative Digital Finance | SNSF | AI in Finance"
-                url: "/the-digital-finance-research-programme/snsf/narrative digital finance"
-                weight: 1
-              - name: "Network-based Credit Risk Modelling | SNSF | AI in Finance"
-                url: "/the-digital-finance-research-programme/snsf/network-based-credit-risk-modelling"
-                weight: 1
+          - name: "MSCA Digital Finance"
+            url: "/research/projects/msca-digital-finance"
+            weight: 2
+          - name: "SNSF"
+            url: "/research/projects/snsf"
+            weight: 3
+          - name: "COST FinAI"
+            url: "/research/projects/cost-finai"
+            weight: 4
+      - name: "Theses"
+        url: "/research/theses"
+        weight: 2
+      - name: "Impact"
+        url: "/research/impact"
+        weight: 3
+  - name: "Education"
+    url: "/education"
+    weight: 5
+  - name: "News"
+    url: "/news"
+    weight: 6

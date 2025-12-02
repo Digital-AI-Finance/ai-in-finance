@@ -1,122 +1,22 @@
-{{/* Collapsible Sidebar Navigation - Built from site pages */}}
-<nav class="sidebar-nav" aria-label="Site navigation">
-  <div class="sidebar-header">
-    <a href="{{ "/" | relURL }}" class="sidebar-brand">AI in Finance</a>
-  </div>
+<div class="sidebar-header">
+  <a href="{{ "/" | relURL }}" class="sidebar-brand">AI in Finance</a>
+</div>
+<div class="sidebar-content">
+  <nav class="sidebar-nav">
+    <div class="nav-item"><a href="{{ "/" | relURL }}"{{ if .IsHome }} class="current"{{ end }}>Home</a></div>
+    <div class="nav-item"><a href="{{ "/about/" | relURL }}"{{ if in .RelPermalink "/about/" }} class="current"{{ end }}>About</a></div>
+    <div class="nav-item"><a href="{{ "/team/" | relURL }}"{{ if in .RelPermalink "/team/" }} class="current"{{ end }}>Team</a></div>
 
-  <div class="sidebar-content">
-    {{/* Build navigation from sections */}}
-    {{ $currentPage := . }}
-
-    {{/* Home link */}}
-    <div class="nav-item level-0{{ if .IsHome }} active{{ end }}">
-      <a href="{{ "/" | relURL }}"{{ if .IsHome }} class="current"{{ end }}>Home</a>
-    </div>
-
-    {{/* Top-level sections */}}
-    {{ range where .Site.Sections "Section" "ne" "" }}
-      {{ $section := . }}
-      {{ $isCurrentSection := or (eq $currentPage.Section .Section) (in $currentPage.Ancestors .) }}
-      {{ $hasChildren := gt (len .Pages) 0 }}
-
-      <div class="nav-item level-0{{ if $isCurrentSection }} active{{ end }}">
-        {{ if $hasChildren }}
-          <details{{ if $isCurrentSection }} open{{ end }}>
-            <summary>
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              <span class="toggle-icon"></span>
-            </summary>
-            <div class="nav-children">
-              {{/* Regular pages in this section */}}
-              {{ range .RegularPages }}
-                {{ $isActive := eq $currentPage.RelPermalink .RelPermalink }}
-                <div class="nav-item level-1{{ if $isActive }} active{{ end }}">
-                  <a href="{{ .RelPermalink }}"{{ if $isActive }} class="current"{{ end }}>{{ .Title }}</a>
-                </div>
-              {{ end }}
-
-              {{/* Subsections */}}
-              {{ range .Sections }}
-                {{ $subsection := . }}
-                {{ $isSubActive := or (eq $currentPage.Section .Section) (in $currentPage.Ancestors .) }}
-                {{ $hasSubChildren := gt (len .Pages) 0 }}
-
-                <div class="nav-item level-1{{ if $isSubActive }} active{{ end }}">
-                  {{ if $hasSubChildren }}
-                    <details{{ if $isSubActive }} open{{ end }}>
-                      <summary>
-                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                        <span class="toggle-icon"></span>
-                      </summary>
-                      <div class="nav-children">
-                        {{ range .RegularPages }}
-                          {{ $isPageActive := eq $currentPage.RelPermalink .RelPermalink }}
-                          <div class="nav-item level-2{{ if $isPageActive }} active{{ end }}">
-                            <a href="{{ .RelPermalink }}"{{ if $isPageActive }} class="current"{{ end }}>{{ .Title }}</a>
-                          </div>
-                        {{ end }}
-
-                        {{/* Level 3 subsections */}}
-                        {{ range .Sections }}
-                          {{ $l3section := . }}
-                          {{ $isL3Active := or (eq $currentPage.Section .Section) (in $currentPage.Ancestors .) }}
-                          {{ $hasL3Children := gt (len .Pages) 0 }}
-
-                          <div class="nav-item level-2{{ if $isL3Active }} active{{ end }}">
-                            {{ if $hasL3Children }}
-                              <details{{ if $isL3Active }} open{{ end }}>
-                                <summary>
-                                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                                  <span class="toggle-icon"></span>
-                                </summary>
-                                <div class="nav-children">
-                                  {{ range .RegularPages }}
-                                    {{ $isL3PageActive := eq $currentPage.RelPermalink .RelPermalink }}
-                                    <div class="nav-item level-3{{ if $isL3PageActive }} active{{ end }}">
-                                      <a href="{{ .RelPermalink }}"{{ if $isL3PageActive }} class="current"{{ end }}>{{ .Title }}</a>
-                                    </div>
-                                  {{ end }}
-
-                                  {{/* Level 4 subsections */}}
-                                  {{ range .Sections }}
-                                    {{ $isL4Active := or (eq $currentPage.Section .Section) (in $currentPage.Ancestors .) }}
-                                    <div class="nav-item level-3{{ if $isL4Active }} active{{ end }}">
-                                      <details{{ if $isL4Active }} open{{ end }}>
-                                        <summary>
-                                          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                                          <span class="toggle-icon"></span>
-                                        </summary>
-                                        <div class="nav-children">
-                                          {{ range .RegularPages }}
-                                            {{ $isL4PageActive := eq $currentPage.RelPermalink .RelPermalink }}
-                                            <div class="nav-item level-4{{ if $isL4PageActive }} active{{ end }}">
-                                              <a href="{{ .RelPermalink }}"{{ if $isL4PageActive }} class="current"{{ end }}>{{ .Title }}</a>
-                                            </div>
-                                          {{ end }}
-                                        </div>
-                                      </details>
-                                    </div>
-                                  {{ end }}
-                                </div>
-                              </details>
-                            {{ else }}
-                              <a href="{{ .RelPermalink }}"{{ if $isL3Active }} class="current"{{ end }}>{{ .Title }}</a>
-                            {{ end }}
-                          </div>
-                        {{ end }}
-                      </div>
-                    </details>
-                  {{ else }}
-                    <a href="{{ .RelPermalink }}"{{ if $isSubActive }} class="current"{{ end }}>{{ .Title }}</a>
-                  {{ end }}
-                </div>
-              {{ end }}
-            </div>
-          </details>
-        {{ else }}
-          <a href="{{ .RelPermalink }}"{{ if $isCurrentSection }} class="current"{{ end }}>{{ .Title }}</a>
-        {{ end }}
+    <details{{ if in .RelPermalink "/research/" }} open{{ end }}>
+      <summary><span class="toggle-icon"></span><a href="{{ "/research/" | relURL }}"{{ if eq .RelPermalink "/research/" }} class="current"{{ end }}>Research</a></summary>
+      <div class="nav-children">
+        <div class="nav-item level-1"><a href="{{ "/research/projects/" | relURL }}">Projects</a></div>
+        <div class="nav-item level-1"><a href="{{ "/research/theses/" | relURL }}">Theses</a></div>
+        <div class="nav-item level-1"><a href="{{ "/research/impact/" | relURL }}">Impact</a></div>
       </div>
-    {{ end }}
-  </div>
-</nav>
+    </details>
+
+    <div class="nav-item"><a href="{{ "/education/" | relURL }}"{{ if in .RelPermalink "/education/" }} class="current"{{ end }}>Education</a></div>
+    <div class="nav-item"><a href="{{ "/news/" | relURL }}"{{ if in .RelPermalink "/news/" }} class="current"{{ end }}>News</a></div>
+  </nav>
+</div>
