@@ -26,7 +26,7 @@ Branka Hadji-Misheva, Prof. Dr.
 
 ## SNSF: The Research Programme
 
-![](/images/.wh/ea/uc/i86752de90102cd64da03e50b2802b5004d191b248fc50701c15604450280/ramcck4vsach46ycuavuda.png)
+![](images/.wh/ea/uc/i86752de90102cd64da03e50b2802b5004d191b248fc50701c15604450280/ramcck4vsach46ycuavuda.png)
 
 ## SNSF: Network-based credit risk models in P2P lending markets
 
@@ -66,8 +66,8 @@ Liu, Y., Baals, L. J., Osterrieder, J., & Hadji-Misheva, B. (2024). Network cent
 
 ## Our Team
 
-![](/images/.wh/ea/uc/ia4d793d00102ca64da03e50b2802a3502b5fb80e98280301c000/ajpzucibip9xonqczllwaq.jpg) ![](/images/.wh/ea/uc/i6aa07aec0102c964da03e50b2802521733d0d0946cb60701c127012c0180/7ghl0or2qfbgfgga33acgw.jpg)
+![](images/.wh/ea/uc/ia4d793d00102ca64da03e50b2802a3502b5fb80e98280301c000/ajpzucibip9xonqczllwaq.jpg) ![](images/.wh/ea/uc/i6aa07aec0102c964da03e50b2802521733d0d0946cb60701c127012c0180/7ghl0or2qfbgfgga33acgw.jpg)
 
-![](/images/.wh/ea/uc/idfc8d4f10102cb64da03e50b28024fb46b32f263704b0701c12c01c80080/jwxdddqpcx7j4v-mzubsiq.jpg) ![](/images/.wh/ea/uc/i266149c30102cc64da03e50b280283b267b09b3a11c10701c12c01c80080/kftjc0rkp0paz8lrzwbjbw.jpg)
+![](images/.wh/ea/uc/idfc8d4f10102cb64da03e50b28024fb46b32f263704b0701c12c01c80080/jwxdddqpcx7j4v-mzubsiq.jpg) ![](images/.wh/ea/uc/i266149c30102cc64da03e50b280283b267b09b3a11c10701c12c01c80080/kftjc0rkp0paz8lrzwbjbw.jpg)
 
-![](/images/.wh/ea/uc/i4a034fd10102cc8d4903e50b28021c72fe91350c0e770701c156043c0280/km7b4gvz0wjcyyg26fxiaa.png)
+![](images/.wh/ea/uc/i4a034fd10102cc8d4903e50b28021c72fe91350c0e770701c156043c0280/km7b4gvz0wjcyyg26fxiaa.png)

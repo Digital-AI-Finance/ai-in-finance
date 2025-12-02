@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-![J. Beltman, Msc](/images/.wh/ea/uc/ia6dc1cf70102ca34ec02eb617e03222f47dea4b3ddfe0701c30401040180/jaap-beltman-2.jpg)
+![J. Beltman, Msc](images/.wh/ea/uc/ia6dc1cf70102ca34ec02eb617e03222f47dea4b3ddfe0701c30401040180/jaap-beltman-2.jpg)
 
 > Being a part of the AI in Finance project was a transformative experience. It provided me with a unique blend of cutting-edge research and real-world applications, enabling me to develop innovative solutions in the financial sector. The knowledge and skills I gained have been instrumental in my professional growth and continue to influence my approach to leveraging AI for financial advancements.
 

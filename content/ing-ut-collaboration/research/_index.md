@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-![Joerg Osterrieder, Assoc. Dr.](/images/.wh/ea/uc/i2ab74ff4010266aff302d33b620339a86ff2f217e2410701c30401040180/joerg-osterrieder.png)
+![Joerg Osterrieder, Assoc. Dr.](images/.wh/ea/uc/i2ab74ff4010266aff302d33b620339a86ff2f217e2410701c30401040180/joerg-osterrieder.png)
 
 > Working together on this collaboration between UT and ING has personally highlighted the incredible outcomes of blending academic research with industry expertise, especially through our successful joint projects in AI for finance.
 

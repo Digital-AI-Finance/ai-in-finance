@@ -27,7 +27,7 @@ dr. Max Baak, ING Wholesale Banking Advanced Analytics
 
 ING Amsterdam, February 28, 2025
 
-![](/images/.wh/ea/uc/ife766a77010275093b04be6025022a36cde4524513020301c000/djng8zxtbvzqr0d6wcdgnq.png)
+![](images/.wh/ea/uc/ife766a77010275093b04be6025022a36cde4524513020301c000/djng8zxtbvzqr0d6wcdgnq.png)
 
 Dear Participants,  
 We are delighted to welcome you to the ING – University of Twente Workshop on Data Analytics and Quantitative Models in Banking and Academia, taking place on February 28, 2025, at the ING headquarters in Amsterdam.  
@@ -118,7 +118,7 @@ Join us for coffee and drinks afterward to continue the conversations and networ
 
 The [MSCA Industrial Doctoral Network on Digital Finance](https://www.digital-finance-msca.com/) (2024-2027), funded by Horizon Europe, brings together top universities, research centers, and companies to train PhD students in new financial technologies. Academic partners include the University of Twente, WU Vienna, Poznan University of Economics, Universitatea Babeș-Bolyai, Kaunas University of Technology, RPTU, University of Pavia, University of Naples Federico II, American University of Sharjah, and Bern University of Applied Sciences. Industry and research partners are Fraunhofer, Deutsche Bank, Deutsche Börse Group, Raiffeisen Bank, Swedbank, BIS, EIT Digital, Royalton Partners, Quoniam Asset Management, Cardo AI, and Athena Research. Together, they focus on practical projects to help students build skills and create new solutions for the finance sector.
 
-![](/images/.wh/ea/uc/ic346bef1010209446f00be6025022a01e978a031fb300701c15604490280/pe56mvnud8u4ehsc0khldg.png)
+![](images/.wh/ea/uc/ic346bef1010209446f00be6025022a01e978a031fb300701c15604490280/pe56mvnud8u4ehsc0khldg.png)
 
 ## Event
 
@@ -163,43 +163,43 @@ Networking Drinks
 
 ## We are
 
-![Picture of prof.dr. J. van Hillegersberg \(Jos\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=kbm8k25IJH-a_1N3QHlGPZcR2aNsjKLOSF-1pbUCzzu7PvLTHdKYcPqHfKZqPyAyQaFBNB6hSjsM5CfNXWtb3exGOoyIbRY9IipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8GIEuf7kj1SQtnN9DWrrF-8yCcxMx4G74M)
+![Picture of prof.dr. J. van Hillegersberg \(Jos\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-a_1N3QHlGPZcR2aNsjKLOSF-1pbUCzzu7PvLTHdKYcPqHfKZqPyAyQaFBNB6hSjsM5CfNXWtb3exGOoyIbRY9IipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8GIEuf7kj1SQtnN9DWrrF-8yCcxMx4G74M)
 
 prof.dr. J. van Hillegersberg (Jos) Full Professor
 
 [+31534893513](tel:+31534893513)[ j.vanhillegersberg@utwente.nl](mailto:j.vanhillegersberg@utwente.nl)[Building: Ravelijn 3414](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/j.vanhillegersberg)
 
-![Picture of J.R.O. Osterrieder \(Jörg\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=gSI-Tmis2JHtUr7_ZgQPJ5cR2aNsjKLOSF-1pbUCzzti61MAhsBOZrAmeKmfdjeHH3HVetp4-0wSrzZX3rSQMQR_LguYz-XHIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Fo00imnU1Qdx8NMpC3NToi0Dia2uMrmww)
+![Picture of J.R.O. Osterrieder \(Jörg\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-Tmis2JHtUr7_ZgQPJ5cR2aNsjKLOSF-1pbUCzzti61MAhsBOZrAmeKmfdjeHH3HVetp4-0wSrzZX3rSQMQR_LguYz-XHIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Fo00imnU1Qdx8NMpC3NToi0Dia2uMrmww)
 
 J.R.O. Osterrieder (Jörg) Associate Professor of Artificial Intelligence and Finance
 
 [Personal page](https://people.utwente.nl/joerg.osterrieder)
 
-![Picture of dr. M.R. Machado \(Marcos\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=gYLDQqQMdFE1CDASoV4AiZcR2aNsjKLOSF-1pbUCzzspHzX2X41QwPE_lvf5PfrOs8Zs6ulg-uuB0vGOCqEvYBftgG2AW3rIIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8EV3u1b8k5OT6zLPxUt06yPKKucybkjky0)
+![Picture of dr. M.R. Machado \(Marcos\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzspHzX2X41QwPE_lvf5PfrOs8Zs6ulg-uuB0vGOCqEvYBftgG2AW3rIIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8EV3u1b8k5OT6zLPxUt06yPKKucybkjky0)
 
 dr. M.R. Machado (Marcos) Assistant Professor
 
 [+31534899045](tel:+31534899045)[ m.r.machado@utwente.nl](mailto:m.r.machado@utwente.nl)[Building: Ravelijn 3105](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/m.r.machado)
 
-![Picture of dr. F.S. Bernard \(Frédérik\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=gmOSh6LSDYnFpz5-NWE7x5cR2aNsjKLOSF-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8E_zKLxev_k-2HIG4weSPTPIsNSf6TlbV8)
+![Picture of dr. F.S. Bernard \(Frédérik\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-NWE7x5cR2aNsjKLOSF-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8E_zKLxev_k-2HIG4weSPTPIsNSf6TlbV8)
 
 dr. F.S. Bernard (Frédérik) Researcher
 
 [+31534895927](tel:+31534895927)[ f.s.bernard@utwente.nl](mailto:f.s.bernard@utwente.nl)[Building: Ravelijn 4408](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/f.s.bernard)
 
-![Picture of dr.ir. W.J.A. van Heeswijk \(Wouter\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=l0qxwfVm5krUi_QCCD1Q4ZcR2aNsjKLOSF-1pbUCzzuGKJ5wO6JMuIW2hMju9XubmaJvh53mTYyH8TBu0GSgtGjOtD7n_7WVIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Fe7DOjp9i8FGnxkwf7a3g3d8OqjetZ0qI)
+![Picture of dr.ir. W.J.A. van Heeswijk \(Wouter\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png_QCCD1Q4ZcR2aNsjKLOSF-1pbUCzzuGKJ5wO6JMuIW2hMju9XubmaJvh53mTYyH8TBu0GSgtGjOtD7n_7WVIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Fe7DOjp9i8FGnxkwf7a3g3d8OqjetZ0qI)
 
 dr.ir. W.J.A. van Heeswijk (Wouter) Assistant Professor
 
 [+31534898460](tel:+31534898460)[ w.j.a.vanheeswijk@utwente.nl](mailto:w.j.a.vanheeswijk@utwente.nl)[Building: Ravelijn 3351](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/w.j.a.vanheeswijk)
 
-![Picture of dr. X. Huang \(Xiaohong\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=FsS7XDhpAiFxeQ1OtNlxqZcR2aNsjKLOSF-1pbUCzzu95ZpxG11BaMtRa6PWRLC4vaAtpTQaDYu32R1J7BXxKX70kCPC4HvTIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8G2zvAfG1kgI3VsRa8ovTWSv5OyCLiy7KE)
+![Picture of dr. X. Huang \(Xiaohong\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzu95ZpxG11BaMtRa6PWRLC4vaAtpTQaDYu32R1J7BXxKX70kCPC4HvTIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8G2zvAfG1kgI3VsRa8ovTWSv5OyCLiy7KE)
 
 dr. X. Huang (Xiaohong) Assistant Professor
 
 [+31534893485](tel:+31534893485)[ x.huang@utwente.nl](mailto:x.huang@utwente.nl)[Building: Ravelijn 2317](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/x.huang)
 
-![Picture of A. Sadighi \(Armin\)](/images/.wh/ea/uc/i98dd3f0701027d372100be6025021558688a24b9ecbd0701c36400640085/armin-profile-pic.avif)
+![Picture of A. Sadighi \(Armin\)](images/.wh/ea/uc/i98dd3f0701027d372100be6025021558688a24b9ecbd0701c36400640085/armin-profile-pic.avif)
 
 A. Sadighi (Armin) PhD Candidate
 
@@ -207,7 +207,7 @@ A. Sadighi (Armin) PhD Candidate
 
 ## Contact
 
-![Picture of J.R.O. Osterrieder \(Jörg\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=VCCU_4uzCnRfOo4ssB4zfZcR2aNsjKLOSF-1pbUCzzti61MAhsBOZrAmeKmfdjeHH3HVetp4-0wSrzZX3rSQMQR_LguYz-XHIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Hqh9o0nAraKM1KPYuWet0UeGVPCp5IMts)
+![Picture of J.R.O. Osterrieder \(Jörg\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png_4uzCnRfOo4ssB4zfZcR2aNsjKLOSF-1pbUCzzti61MAhsBOZrAmeKmfdjeHH3HVetp4-0wSrzZX3rSQMQR_LguYz-XHIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Hqh9o0nAraKM1KPYuWet0UeGVPCp5IMts)
 
 J.R.O. Osterrieder (Jörg) Associate Professor of Artificial Intelligence and Finance
 

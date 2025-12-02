@@ -2150,7 +2150,7 @@ COST (European Cooperation in Science and Technology) is a funding agency for re
 
 ## Output
 
-![](/images/.wh/ea/uc/i7e0d90d1010225c96a00c36fe9025a39e3a420d83ce00701c15604ec0280/0e0pr6ck8u-9qdvhg-dijg.png)
+![](images/.wh/ea/uc/i7e0d90d1010225c96a00c36fe9025a39e3a420d83ce00701c15604ec0280/0e0pr6ck8u-9qdvhg-dijg.png)
 
   
 
@@ -2158,7 +2158,7 @@ COST (European Cooperation in Science and Technology) is a funding agency for re
 
 The research network has grown to 413 researchers from 51 Countries; One of the largest COST Action in Europe and the leading network on Fintech and AI in Finance.
 
-![](/images/.wh/ea/uc/ic6e9aefb01023bc1fa02c36fe902032edf1f002fe1fe0801e3d8042e03853c/output-and-impact-attendance.avif)![](/images/.wh/ea/uc/if39b34a301023ec1fa02c36fe9021ff556ddc6a9d15e0801e3d8042e03853c/output-onlinepngtools.avif)![](/images/.wh/ea/uc/i62c32ff7010241c1fa02c36fe902d85d721e362997a60801e3d8042e03853c/output-and-impact-citation.avif)
+![](images/.wh/ea/uc/ic6e9aefb01023bc1fa02c36fe902032edf1f002fe1fe0801e3d8042e03853c/output-and-impact-attendance.avif)![](images/.wh/ea/uc/if39b34a301023ec1fa02c36fe9021ff556ddc6a9d15e0801e3d8042e03853c/output-onlinepngtools.avif)![](images/.wh/ea/uc/i62c32ff7010241c1fa02c36fe902d85d721e362997a60801e3d8042e03853c/output-and-impact-citation.avif)
 
 Attendance of FinAI events
 

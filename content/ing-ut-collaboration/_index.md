@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-![M. Baak, Data Science – Wholesale Banking](/images/.wh/ea/uc/ia1a1691601022ca2fa02d968c102f89dabe950c27c340701c30401040180/max-baak.png)
+![M. Baak, Data Science – Wholesale Banking](images/.wh/ea/uc/ia1a1691601022ca2fa02d968c102f89dabe950c27c340701c30401040180/max-baak.png)
 
 > This partnership leverages cutting-edge academic research and practical industry insights to drive forward innovative AI solutions in finance. By combining our strengths, we are able to tackle complex challenges and create impactful advancements that benefit both the academic community and the financial sector.
 
@@ -13,7 +13,7 @@ M. Baak, Data Science – Wholesale Banking
 
 This collaboration strategically positions ING and the University of Twente to pursue AI-related research, aiming to advance the frontier of AI in Finance through innovative applications in data analysis, risk management, and business integration. 
 
-![](/images/.wh/ea/uc/i38d0462f01025a25f202d968c102137be8a49363d32d0701c156049a0280/fcx3zgauvdapgzwmtcos-g.png)
+![](images/.wh/ea/uc/i38d0462f01025a25f202d968c102137be8a49363d32d0701c156049a0280/fcx3zgauvdapgzwmtcos-g.png)
 
 ## Collaboration in Research
 
@@ -30,11 +30,11 @@ Additionally, PhD Candidate Leixin Zhang's research on obtaining a reliable conf
 
 The team is leading or involved in several large European research projects focussing on Artificial Intelligence within the financial sector.
 
-![](/images/assets/kick-start-logo-long.png)
+![](images/assets/kick-start-logo-long.png)
 
-![](/images/assets/fin-ai-logo-1472.png)
+![](images/assets/fin-ai-logo-1472.png)
 
-![](/images/assets/digital-logo-461.png)
+![](images/assets/digital-logo-461.png)
 
   * [**Learn about our research projects** __](https://www.ai-in-finance.eu/ing-ut-collaboration/research/)
 

@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-![Jos van Hillegersberg, Prof.](/images/.wh/ea/uc/icbbeae77010226536500cc770c02cd445916019437e80701c30401040180/jos-van-hillegersberg.png)
+![Jos van Hillegersberg, Prof.](images/.wh/ea/uc/icbbeae77010226536500cc770c02cd445916019437e80701c30401040180/jos-van-hillegersberg.png)
 
 > We in the Netherlands have been pioneering and innovating applications involving artificial intelligence for quite some time. There are lots of opportunities in the financial sector. But we also ran into a problem: there’s an enormous demand for talent in the business community and academic world. Our partnership will help alleviate this shortage. The fact that ING will be actively investing in UT’s academic knowledge already says a lot.
 
@@ -13,7 +13,7 @@ Jos van Hillegersberg, Prof.
 
 University of Twente and the ING Group have put their signatures to a five-year collaboration agreement covering artificial intelligence and data science in the financial world. The partnership was celebrated at FinanceCom 2022, a leading-edge conference hosted by UT. It marks the first time that this international congress in finance and fintech has been held in the Netherlands.
 
-![](/images/.wh/ea/uc/ie207afc501025d4e6500cc770c02e39e00465c9213a20301c000/hzcwurl5q22k3jfbkfch5g.jpg)  
+![](images/.wh/ea/uc/ie207afc501025d4e6500cc770c02e39e00465c9213a20301c000/hzcwurl5q22k3jfbkfch5g.jpg)  
 _FinanceCom 2022. From left to right: Joerg Osterrieder (UT), Anand Autar (ING), Kerem Tomak (ING), Jos van Hillegersberg (UT)._
 
 ## Personalised Service with AI

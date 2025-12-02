@@ -24,19 +24,19 @@ By the end of the course, candidates will be equipped with the knowledge and ski
 ## Speakers  
   
 
-![](/images/.wh/ea/uc/i4dcf95d90102a4131a00074f9004e631be3dcf9ede680701c25802000080/wjavanheeswijk.jpg)
+![](images/.wh/ea/uc/i4dcf95d90102a4131a00074f9004e631be3dcf9ede680701c25802000080/wjavanheeswijk.jpg)
 
 Wouter van Heeswijk
 
 **Wouter van Heeswijk** is an assistant professor in operations research & financial engineering at the University of Twente. His research efforts focus primarily on reinforcement learning, with both methodological developments and applications across domains. He teaches a number of courses in financial engineering, with topics including reinforcement learning in finance, numerical valuation of derivatives, real option analysis, risk management and financial accounting. Within the DIGITAL network, he is primarily involved in the doctoral training programme.
 
-![](/images/.wh/ea/uc/idd0184b1010256131a00074f90044b4442d93e88a6b20701c25802000080/mes-1.jpg)
+![](images/.wh/ea/uc/idd0184b1010256131a00074f90044b4442d93e88a6b20701c25802000080/mes-1.jpg)
 
 Martijn Mes
 
 **Martijn Mes** is a full professor of Transportation and Logistics Management (TLM) and chair of the Industrial Engineering and Business Information Systems (IEBIS) section within the High Tech Business and Entrepreneurship (HBE) department at the University of Twente (Enschede, The Netherlands). He holds a master’s degree in Applied Mathematics (2002) and did his PhD at the School of Management and Governance, University of Twente (2008). After finishing his PhD, Martijn did his postdoc at Princeton University, Department of Operations Research and Financial Engineering, where he researched the topics of Ranking and Selection (R&S), Bayesian Global Optimization (BGO), and Optimal Learning.
 
-![](/images/.wh/ea/uc/i8705961f0102e51a4500074f900439a86ff2f217e2410701c25802000080/joerg-osterrieder.png)
+![](images/.wh/ea/uc/i8705961f0102e51a4500074f900439a86ff2f217e2410701c25802000080/joerg-osterrieder.png)
 
 Joerg Osterrieder
 
@@ -44,37 +44,37 @@ Joerg Osterrieder
 
 Joerg is also the Coordinator of the MSCA Industrial Doctoral Network on Digital Finance, a European PhD Training and Research programme with more than 100 partners from across Europe, including leading universities and global institutions such as the European Central Bank and the Bank for International Settlements.
 
-![](/images/.wh/ea/uc/i6dc1af07010243131a00074f9004df2ed6fd658029870701c25802000080/branka.jpg)
+![](images/.wh/ea/uc/i6dc1af07010243131a00074f9004df2ed6fd658029870701c25802000080/branka.jpg)
 
 Branka Hadji Misheva
 
 **Branka Hadji Misheva** is a Professor in Applied Data Science and Finance at BFH, working on AI applications in finance, XAI methods, network models and fintech risk management. She holds a PhD in Economics and Management of Technology with a specific focus on network models as they apply to the operation and performance of P2P lending platforms, from the University of Pavia, Italy. She has furthermore participated in the acquisition of over 20 SNF, Innosuisse and EU projects and published a variety of papers related within the different research proposals Prof. Hadji Misheva is also research author of over 25 papers in the field of credit risk modeling, graph theory, predictive performance of scoring models, lead behavior in crypto markets and explainable AI models for credit risk management.
 
-![](/images/.wh/ea/uc/ibfaf1fb4010248131a00074f900433b1f84628b104d50701c25802000080/penazzi.jpg)
+![](images/.wh/ea/uc/ibfaf1fb4010248131a00074f900433b1f84628b104d50701c25802000080/penazzi.jpg)
 
 Stefano Penazzi
 
 **Stefano Penazzi** is a key member of the Cardo AI team, serving as a Senior Data Scientist. Stefano contributes to the company's mission by leveraging his extensive expertise in data science in developing predictive models, which in turn is shaped by multiple years spent in research positions across distinguished European academic institutions (University of Bologna, University of Hull and ETH Zurich). Prior to Cardo AI, Stefano has also contributed to the development of a decision support system in Python, employed by the Australian Government, to assess and forecast the economic, environmental, and social impacts resulting from the introduction of biofuel.
 
-![](/images/.wh/ea/uc/ica4b5c9b01025b131a00074f90048f1a44bc34bf6e520701c25802000080/anne-zander.jpg)
+![](images/.wh/ea/uc/ica4b5c9b01025b131a00074f90048f1a44bc34bf6e520701c25802000080/anne-zander.jpg)
 
 Anne Zander
 
 **Anne Zander** is an Assistant Professor in Applied Mathematics at the University of Twente, The Netherlands. She studied Mathematics and Physics and earned a Ph.D. in 2021 from the Karlsruhe Institute of Technology, Germany, working on Operations Research methods applied to Healthcare Logistics. Her theoretical research focuses on sequential decision problems, particularly high-dimensional, discrete decision spaces. To solve those problems, she aims to integrate lookahead planning via Stochastic Programming and learning from past experience via Reinforcement Learning. Her main field of application is Healthcare Logistics. Currently, Anne Zander participates in and leads several projects in close collaboration with healthcare providers related to capacity planning during infectious outbreaks or improving the patient flow from hospitals to follow-up care.
 
-![](/images/.wh/ea/uc/i9bd517b101024d131a00074f9004328fbcb21013ac780701c25802000080/warren-powell.jpg)
+![](images/.wh/ea/uc/i9bd517b101024d131a00074f9004328fbcb21013ac780701c25802000080/warren-powell.jpg)
 
 Warren B. Powell
 
 **Warren B. Powell** is Professor Emeritus at Princeton University, where he taught for 39 years, and is currently the Chief Innovation Officer at Optimal Dynamics. He was the founder and director of CASTLE Lab, which focused on stochastic optimization with applications to freight transportation, energy systems, health, e-commerce, finance and the laboratory sciences, supported by over $50 million in funding from government and industry. He has pioneered a new universal framework that can be used to model any sequential decision problem, including the identification of four classes of policies that spans every possible method for making decisions. This is documented in his latest book with John Wiley: Reinforcement Learning and Stochastic Optimization: A unified framework for sequential decisions.
 
-![](/images/.wh/ea/uc/i57d70708010206844900074f9004142bbcd2873e00350701c25802000080/costea-adrian.jpg)
+![](images/.wh/ea/uc/i57d70708010206844900074f9004142bbcd2873e00350701c25802000080/costea-adrian.jpg)
 
 Adrian Costea
 
 **Adrian Costea** is Professor of Data Mining and Econometrics at Bucharest University of Economics, Department of Statistics and Econometrics. He received his doctorate in Information Systems from Åbo Akademi University in 2005. His recent publications include An Early-Warning System for Financial Performance Predictions (ECECSR 56(2): 5-20, 2022) and The Effect of FDI on Environmental Degradation in Romania: Testing the Pollution Haven Hypothesis (Sustainability 15(13): 10733, 2023). His research interests include the use of Data Mining methods for assessing comparatively the performance of financial entities, and he is a CFA program charterholder (he received the CFA charter on 18th September 2017).****
 
-![](/images/.wh/ea/uc/i427d05a5010201844900074f900466dc558706b4356e0701c25802000080/christian-spethmann.jpg)
+![](images/.wh/ea/uc/i427d05a5010201844900074f900466dc558706b4356e0701c25802000080/christian-spethmann.jpg)
 
 Christian Spethmann
 
@@ -221,19 +221,19 @@ The [MSCA Industrial Doctoral Network on Digital Finance](https://www.digital-fi
 
 In case of questions, feel free to reach out to Dr. van Heeswijk.
 
-![Picture of J.R.O. Osterrieder \(Jörg\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=-NA-3dswK-joEDMIKxhVx5cR2aNsjKLOSF-1pbUCzzti61MAhsBOZrAmeKmfdjeHH3HVetp4-0wSrzZX3rSQMQR_LguYz-XHIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8H2CERuDbm9NW_AYjJDw6v-aPY-f4zir2s)
+![Picture of J.R.O. Osterrieder \(Jörg\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=-NA-3dswK-joEDMIKxhVx5cR2aNsjKLOSF-1pbUCzzti61MAhsBOZrAmeKmfdjeHH3HVetp4-0wSrzZX3rSQMQR_LguYz-XHIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8H2CERuDbm9NW_AYjJDw6v-aPY-f4zir2s)
 
 J.R.O. Osterrieder (Jörg) Associate Professor of Artificial Intelligence and Finance
 
 [Personal page](https://people.utwente.nl/joerg.osterrieder)
 
-![Picture of dr. F.S. Bernard \(Frédérik\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=R8GPoj-tijFADnhI9G0nNZcR2aNsjKLOSF-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8ERCDp0Wh6ReZw9O5RDHXqJGe98t1jbjak)
+![Picture of dr. F.S. Bernard \(Frédérik\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-tijFADnhI9G0nNZcR2aNsjKLOSF-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8ERCDp0Wh6ReZw9O5RDHXqJGe98t1jbjak)
 
 dr. F.S. Bernard (Frédérik) Researcher
 
 [+31534895927](tel:+31534895927)[ f.s.bernard@utwente.nl](mailto:f.s.bernard@utwente.nl)[Building: Ravelijn 4408](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/f.s.bernard)
 
-![Picture of dr.ir. W.J.A. van Heeswijk \(Wouter\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=0SWIamUI-6bcDqvDBBVNlZcR2aNsjKLOSF-1pbUCzzuGKJ5wO6JMuIW2hMju9XubmaJvh53mTYyH8TBu0GSgtGjOtD7n_7WVIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8HQihx3suW2ZDsJiRW1OVFZKsTlnorPPzU)
+![Picture of dr.ir. W.J.A. van Heeswijk \(Wouter\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-6bcDqvDBBVNlZcR2aNsjKLOSF-1pbUCzzuGKJ5wO6JMuIW2hMju9XubmaJvh53mTYyH8TBu0GSgtGjOtD7n_7WVIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8HQihx3suW2ZDsJiRW1OVFZKsTlnorPPzU)
 
 dr.ir. W.J.A. van Heeswijk (Wouter) Assistant Professor
 

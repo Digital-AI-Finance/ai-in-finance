@@ -218,7 +218,7 @@ The [MSCA Industrial Doctoral Network on Digital Finance](https://www.digital-fi
 
 In case of questions, feel free to reach out to Dr. Benard.
 
-![Picture of dr. F.S. Bernard \(Frédérik\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=kKV-Lo9MbwqKJelxBkxtQpcR2aNsjKLOSF-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8GneXGCTd0v2KV71n8zhF_1d-yCW31_5x4)
+![Picture of dr. F.S. Bernard \(Frédérik\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-Lo9MbwqKJelxBkxtQpcR2aNsjKLOSF-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8GneXGCTd0v2KV71n8zhF_1d-yCW31_5x4)
 
 dr. F.S. Bernard (Frédérik) Researcher
 
