@@ -137,8 +137,5 @@ Amsterdam, Netherlands, 25.02.2025,
 
 ## Our Team
 
-![](images/.wh/ea/uc/ie645d6c7010215bee8009c31f301a3502b5fb80e98280301c000/ajpzucibip9xonqczllwaq.jpg)![](images/.wh/ea/uc/i66260f340102237ee9009c31f3012785ec54d110a40c0701c12c012c0180/tunosctxmapi-dczuk-s6q.jpg) ![gabin-taibi-1_edited.jpg](images/.wh/ea/uc/i7b95869e0102b252e9009c31f3017f32cb2a00af0edd0701c10301200180/wzee-ucnlwcrplve491yiq.jpg)
+ 
 
-![Foto_MariusKlein.JPG](images/.wh/ea/uc/ia4f114bc0102b152e9009c31f3011d051454e5d1e4330701c10301200180/4ywl1javjl5pqqdp4-hnqq.jpg)![](images/.wh/ea/uc/i764dca1401022abee8009c31f3014fb46b32f263704b0701c190010b0180/jwxdddqpcx7j4v-mzubsiq.jpg)![](images/.wh/ea/uc/ie94bb5f3010233bee8009c31f30183b267b09b3a11c10701c190010b0180/kftjc0rkp0paz8lrzwbjbw.jpg)
-
-![](images/.wh/ea/uc/i184f1e35010213bee8009c31f3011c72fe91350c0e770701c156043c0280/km7b4gvz0wjcyyg26fxiaa.png)
