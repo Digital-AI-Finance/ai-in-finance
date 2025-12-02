@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="content-wrapper">
+  <aside class="sidebar">
+    {{ partial "sidebar.html" . }}
+  </aside>
+  <main class="main-content">
+    <article>
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </article>
+  </main>
+</div>
+{{ end }}

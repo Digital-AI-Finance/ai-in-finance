@@ -1,0 +1,248 @@
+/* Page Layout with Sidebar */
+.page-wrapper {
+  display: flex;
+  min-height: calc(100vh - 60px);
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.sidebar-container {
+  width: 280px;
+  flex-shrink: 0;
+  padding: 20px 0;
+  position: sticky;
+  top: 60px;
+  height: calc(100vh - 60px);
+  overflow-y: auto;
+  border-right: 1px solid var(--border, #e0e0e0);
+}
+
+.main-container {
+  flex-grow: 1;
+  padding: 20px 40px;
+  min-width: 0;
+  max-width: 900px;
+}
+
+/* Sidebar Header */
+.sidebar-header {
+  padding: 0 12px 16px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--border, #e0e0e0);
+}
+
+.sidebar-brand {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--primary, #001e50);
+  text-decoration: none;
+}
+
+.sidebar-brand:hover {
+  color: var(--secondary, #ff6600);
+}
+
+.sidebar-content {
+  padding: 8px 0;
+}
+
+/* Collapsible Sidebar Navigation */
+.sidebar-nav {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.nav-item {
+  margin: 0;
+}
+
+.nav-item a {
+  display: block;
+  padding: 8px 12px;
+  color: var(--content, #333);
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.nav-item a:hover {
+  background-color: var(--code-bg, #f0f0f0);
+}
+
+.nav-item.active > a,
+.nav-item.active > details > summary > a {
+  color: var(--primary, #0066cc);
+  font-weight: 500;
+}
+
+.nav-item a.current {
+  background-color: rgba(0, 102, 204, 0.1);
+  color: var(--primary, #0066cc);
+  font-weight: 600;
+}
+
+/* Nested levels */
+.nav-item.level-1 { padding-left: 12px; }
+.nav-item.level-2 { padding-left: 24px; }
+.nav-item.level-3 { padding-left: 36px; }
+.nav-item.level-4 { padding-left: 48px; }
+
+/* Details/Summary styling */
+details {
+  margin: 0;
+}
+
+details > summary {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary > a {
+  flex-grow: 1;
+}
+
+.toggle-icon {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 4px;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.toggle-icon:hover {
+  background-color: var(--code-bg, #f0f0f0);
+}
+
+.toggle-icon::before {
+  content: "+";
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--secondary, #666);
+}
+
+details[open] > summary .toggle-icon::before {
+  content: "-";
+}
+
+.nav-children {
+  margin-top: 2px;
+  padding-left: 4px;
+  border-left: 2px solid var(--border, #e0e0e0);
+  margin-left: 16px;
+}
+
+/* Dark mode support */
+.dark .sidebar-container {
+  border-right-color: var(--border, #333);
+}
+
+.dark .sidebar-header {
+  border-bottom-color: var(--border, #333);
+}
+
+.dark .sidebar-brand {
+  color: var(--primary, #6cb6ff);
+}
+
+.dark .nav-item a {
+  color: var(--content, #ddd);
+}
+
+.dark .nav-item a:hover {
+  background-color: var(--code-bg, #2a2a2a);
+}
+
+.dark .nav-item a.current {
+  background-color: rgba(108, 182, 255, 0.15);
+}
+
+.dark .nav-children {
+  border-left-color: var(--border, #444);
+}
+
+/* Mobile hamburger menu */
+.sidebar-toggle {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--primary, #001e50);
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  z-index: 1000;
+  font-size: 24px;
+}
+
+/* Mobile responsive */
+@media (max-width: 900px) {
+  .page-wrapper {
+    flex-direction: column;
+  }
+
+  .sidebar-container {
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    bottom: 0;
+    background: var(--theme, white);
+    z-index: 999;
+    transition: left 0.3s ease;
+    border-right: none;
+    box-shadow: 4px 0 20px rgba(0,0,0,0.2);
+    padding-top: 80px;
+  }
+
+  .sidebar-container.open {
+    left: 0;
+  }
+
+  .sidebar-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .main-container {
+    padding: 20px;
+  }
+
+  .nav-item a {
+    padding: 12px 16px;
+  }
+}
+
+/* Scrollbar styling */
+.sidebar-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.sidebar-container::-webkit-scrollbar-thumb {
+  background: var(--border, #ccc);
+  border-radius: 3px;
+}
+
+.sidebar-container::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary, #999);
+}

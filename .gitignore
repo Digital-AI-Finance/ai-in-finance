@@ -22,4 +22,5 @@ __pycache__/
 
 # Raw scraped site and intermediate files
 raw_site/
+raw_site_new/
 hugo_site/
