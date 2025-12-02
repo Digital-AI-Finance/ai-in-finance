@@ -71,7 +71,7 @@ The University of Twente - ING collaboration on Artificial Intelligence is part 
   * **Network** : University of Twente and ING Group collaboration. The initiative is part of KickStart AI, backed by five leading Dutch companies (Ahold Delhaize, ING, KLM, NS, and Philips
   * **Activities** : MSc supervision, industry guest lectures, workshops, PhD internships, and industry research focusing on areas like credit risk, fraud detection, and personalized banking.
 
-  * [Learn about AI in Finance __](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/AI-in-Finance/)
+  * [Learn about AI in Finance __](/The-Digital-Finance-Research-Programme/AI-in-Finance/)
 
 ## MSCA Digital Finance
 
@@ -79,7 +79,7 @@ The University of Twente - ING collaboration on Artificial Intelligence is part 
   * **Network:** European Universities, International Corporation, European Research Centers, and Intergovernmental Agencies
   * **Research:** Advancing Digital Finance Research and Bridging the Gap between Industry and Academia
 
-  * [Learn about MSCA Digital Finance __](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/MSCA-Digital-Finance/)
+  * [Learn about MSCA Digital Finance __](/The-Digital-Finance-Research-Programme/MSCA-Digital-Finance/)
 
 ## COST FinAI
 
@@ -87,7 +87,7 @@ The University of Twente - ING collaboration on Artificial Intelligence is part 
   * **Network:** European COST Countries and International Partners
   * **Research:** Inclusive, Interdisplinairy, Advancing Science and Technology
 
-  * [Learn about COST Action on Fintech and AI in Finance __](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/COST-FinAI/)
+  * [Learn about COST Action on Fintech and AI in Finance __](/The-Digital-Finance-Research-Programme/COST-FinAI/)
 
 ## Swiss National Science Foundation
 
@@ -95,10 +95,10 @@ The University of Twente - ING collaboration on Artificial Intelligence is part 
   * **Network** : Collaborates with universities and other institutions, as well as national and international partners.
   * **Research** : Funds research across various disciplines, from chemistry to medicine to sociology. Focuses on Open Science and the responsible use of Artificial Intelligence.
 
-  * [Learn about Swiss National Science Foundation __](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/SNSF/)
+  * [Learn about Swiss National Science Foundation __](/The-Digital-Finance-Research-Programme/SNSF/)
 
 ## Our Research Team
 
 ![](images/.wh/ea/uc/i55d72886010256199a029dad2c04e3e9e5eb35d484510701c15604ce0280/wokhnvzddyhebyqk1ud-zq.png)
 
-  * [ Learn about our research team __](https://www.ai-in-finance.eu/Our-People/Our-Team/)
+  * [ Learn about our research team __](/Our-People/Our-Team/)

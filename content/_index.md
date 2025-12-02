@@ -75,37 +75,33 @@ The collaboration has extended over multitude of research projects.
 
 ![](images/assets/digital-logo-461.png)
 
-  * [**Learn about joint research projects** __](https://www.ai-in-finance.eu/ing-ut-collaboration/research/)
+  * [**Learn about joint research projects** __](/ing-ut-collaboration/research/)
 
 ## Our Team
 
 Our team consists of 11 full, associate and assistant professors from the University of Twente, under the lead of prof. dr. Jos van Hillegersberg, as well as more than 22 members from ING across 11 different departments, and 9 MSc students, 1 PhD Candidate cooperating on research with ING.
 
-  * [**Learn about the ING-UT team** __](https://www.ai-in-finance.eu/Our-People/Our-Team/)
-  * [**Learn about UT alumni at ING** __](https://www.ai-in-finance.eu/Our-People/)
-  * [**Learn about UT students at ING** __](https://www.ai-in-finance.eu/Our-People/UT-Students-at-ING/)
+  * [**Learn about the ING-UT team** __](/Our-People/Our-Team/)
+  * [**Learn about UT alumni at ING** __](/Our-People/)
+  * [**Learn about UT students at ING** __](/Our-People/UT-Students-at-ING/)
 
 ## Contact Us
 
-![Picture of prof.dr. J. van Hillegersberg \(Jos\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-jZJMyLFCDS2gG1KvJcR2aNsjKLOSF-1pbUCzztXB3GNnbruF4BCBxwC3QZz-EAhg9VbjpIlx8wZNS71f6dmVk40EXTpIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8FQF4773RTGSWEtIoP38lShmTftp_Jti_U)
 
 prof.dr. J. van Hillegersberg (Jos) Full Professor
 
 [+31534893513](tel:+31534893513)[ j.vanhillegersberg@utwente.nl](mailto:j.vanhillegersberg@utwente.nl)[Building: Ravelijn 3414](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/j.vanhillegersberg)
 
-![Picture of prof.dr.ir. M.R.K. Mes \(Martijn\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzuMDYd217Dl_1-qahjzKieOetR4LzRi_flCZQe0YDww2eJpYQEbS1ffIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8EZAQEz1UvLf7ikMVHvkBha-Vjv6AnQV2U)
 
 prof.dr.ir. M.R.K. Mes (Martijn) Full Professor
 
 [+31534894062](tel:+31534894062)[ m.r.k.mes@utwente.nl](mailto:m.r.k.mes@utwente.nl)[Building: Ravelijn 3414](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/m.r.k.mes)
 
-![Picture of J.R.O. Osterrieder \(Jörg\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png_QxVBDtBOY5cR2aNsjKLOSF-1pbUCzzveCEAzqoIDDQMpJsoC2QTY0MPGaG_xlr4oPkuhE4gGYmu_MHk_Q4VVIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8ESkN1fyHeeEkTusHTg-L4FvSw-9scf0_U)
 
 J.R.O. Osterrieder (Jörg) Associate Professor of Artificial Intelligence and Finance
 
 [Personal page](https://people.utwente.nl/joerg.osterrieder)
 
-![Picture of dr. M.R. Machado \(Marcos\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzsjXGARLlTKTEW4bRDWXWmYyyCVUmtbEo04c7tChFNLA9c3GvmXQZ5jIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8HkxMbVOfaA2FLmgAy0R74cVh5CUczcvU0)
 
 dr. M.R. Machado (Marcos) Assistant Professor
 

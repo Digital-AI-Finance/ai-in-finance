@@ -150,49 +150,41 @@ The [MSCA Industrial Doctoral Network on Digital Finance](https://www.digital-fi
 
 ## UT Team
 
-![Picture of J.R.O. Osterrieder \(Jörg\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzti61MAhsBOZrAmeKmfdjeHH3HVetp4-0wSrzZX3rSQMQR_LguYz-XHIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Fm4SCRf_TZgX-qoIRjl8F7lNfKxT5FVqw)
 
 J.R.O. Osterrieder (Jörg) Associate Professor of Artificial Intelligence and Finance
 
 [Personal page](https://people.utwente.nl/joerg.osterrieder)
 
-![Picture of dr. F.S. Bernard \(Frédérik\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8EpG1vBKFXl5-B8bD3eUwdVVnCVWL-Wj0g)
 
 dr. F.S. Bernard (Frédérik) Researcher
 
 [+31534895927](tel:+31534895927)[ f.s.bernard@utwente.nl](mailto:f.s.bernard@utwente.nl)[Building: Ravelijn 4408](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/f.s.bernard)
 
-![Picture of dr.ir. W.J.A. van Heeswijk \(Wouter\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzuGKJ5wO6JMuIW2hMju9XubmaJvh53mTYyH8TBu0GSgtGjOtD7n_7WVIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Hb5kuZ59wKgpMV_C9oyDpVX0dcSfPbeIc)
 
 dr.ir. W.J.A. van Heeswijk (Wouter) Assistant Professor
 
 [+31534898460](tel:+31534898460)[ w.j.a.vanheeswijk@utwente.nl](mailto:w.j.a.vanheeswijk@utwente.nl)[Building: Ravelijn 3351](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/w.j.a.vanheeswijk)
 
-![Picture of dr. M.R. Machado \(Marcos\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzspHzX2X41QwPE_lvf5PfrOs8Zs6ulg-uuB0vGOCqEvYBftgG2AW3rIIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8Ej_1rpgojcPrCeVVgPZCWnpyaImIw3yig)
 
 dr. M.R. Machado (Marcos) Assistant Professor
 
 [+31534899045](tel:+31534899045)[ m.r.machado@utwente.nl](mailto:m.r.machado@utwente.nl)[Building: Ravelijn 3105](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/m.r.machado)
 
-![Picture of dr. X. Huang \(Xiaohong\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzu95ZpxG11BaMtRa6PWRLC4vaAtpTQaDYu32R1J7BXxKX70kCPC4HvTIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8E29d6mBxDQ32rW1mzGcwRejywJr7djtRQ)
 
 dr. X. Huang (Xiaohong) Assistant Professor
 
 [+31534893485](tel:+31534893485)[ x.huang@utwente.nl](mailto:x.huang@utwente.nl)[Building: Ravelijn 2317](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/x.huang)
 
-![Picture of dr. R. Guizzardi - Silva Souza \(Renata\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzsZ8Yq7yGL_nW6x7Y2a-V6jLgFWEsS3z4r_TjouXsJQb-edgV0oEqZYIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8FAL-_Gva2k5yAGzsyh49qZc-j91c3UqPo)
 
 dr. R. Guizzardi - Silva Souza (Renata) Assistant Professor
 
 [+31534897550](tel:+31534897550)[ r.guizzardi@utwente.nl](mailto:r.guizzardi@utwente.nl)[Building: Ravelijn 3107](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/r.guizzardi)
 
-![Picture of dr. C. Kolb \(Christina\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzuGszy6nzhoUYKYsLEe0-W6TQR-kR9nPDisD3RWYfA3TIVy8AEdWIcCIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8GtOSoxh9JuYW9gFRCBOEdVavIaGRgbZaE)
 
 dr. C. Kolb (Christina) Assistant Professor
 
 [+31534897851](tel:+31534897851)[ c.kolb@utwente.nl](mailto:c.kolb@utwente.nl)[Building: Ravelijn 3202](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/c.kolb)
 
-![Picture of dr. E. Svetlova \(Ekaterina\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png_7Gc7Qn97hsT45cR2aNsjKLOSF-1pbUCzzsW1vdPMko1KbImQU83suxgyJtpr3mPwtobfnECnGuifGFHzCgN2ttfIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8H6UdtJWo37XaIQRzFYFGL_5mgF2GGxyVI)
 
 dr. E. Svetlova (Ekaterina) Associate Professor
 
@@ -214,7 +206,6 @@ A. Sadighi (Armin) PhD Candidate
 
 [+31534896984](tel:+31534896984)[ armin.sadighi@utwente.nl](mailto:armin.sadighi@utwente.nl)[Building: Ravelijn 4424](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/armin.sadighi)
 
-![Picture of M. Massei \(Manuele\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-1pbUCzzuHBGza8GLSWpeCAAZx_oBDna-sZse8RVX20LJ9TATdZfPSU4owqXW8IipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8EX1FinTSols9fORfwcQRpnOq0cpIg828g)
 
 M. Massei (Manuele) PhD Candidate
 

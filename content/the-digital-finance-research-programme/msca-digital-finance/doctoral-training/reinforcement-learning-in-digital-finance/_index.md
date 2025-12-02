@@ -210,30 +210,27 @@ The [MSCA Industrial Doctoral Network on Digital Finance](https://www.digital-fi
 
 ## Find Out More
 
-  * [News about Event __](https://www.ai-in-finance.eu/events/2025/2/91679/msca-digital-finance-phd-training-week-on-reinforcement-learning?code=8e50eddd)
+  * [News about Event __](/events/2025/2/91679/msca-digital-finance-phd-training-week-on-reinforcement-learning?code=8e50eddd)
   * [Registration for Event __](https://www.meetup.com/fintech_ai_in_finance/events/302419080/)
   * [Event Information __](https://www.digital-finance-msca.com/event-details-registration/msca-training-reinforcement-learning-utw)
   * [Training Program __](https://www.digital-finance-msca.com/training-modules/reinforcement-learning-in-digital-finance)
-  * [Course Syllabus __](/.utwente_base/ws2016/download.shtml?f=swEywnHmeYM_T0aoki8UD4nRAM2BHpbHbC-pc0S7uVat_IvmlshHsK2dA9nZiQI_BW0-uor6Lv8TzcG8gPGOCMlwSgiPx-b7K8YtC4zXvfUiKR0YBfD-kKuDOruwZkHX62Mp_uP23W7NnszDps-BvasWJOwImqpHqGYjBNTWAQPQESp6adwDht3fS6WqWmI7X63Yv96t2IxR-cLMsfGd892vXQcsSNgwOJ6qSPZS8QF4w0jMN2zaAyuyAvmkYz_VENuiSdTFVFkxXCDwGRATtcb_WQ32JnB3.sCl99_dkgqyD-Rpi.vTDX2ESsHO4jY7LsoToLig)
-  * [Public Transport Information UTW __](/.utwente_base/ws2016/download.shtml?f=9Z_hcSMC5c0rSbfqEnLPqPjMoNm0jC9X_rL3L6TE7bSPOiKLESyIKguqMk6lpGuti7wcJWAtCJrEynY3M3TrFe9MsIrNiKF_BpJB6_uumqfRmA0FSFOlhDCV5PcLrvQdL-pOku0p5pObR_6JZi8XihAQXIcZGXKQTWkeUmOifiO1v2NSsjjCUD84dZk-N6KkfbFzOULJulYx2-T1ZgpI4-L_a9HrGqzGfbg-bWDlmnUJeOszwY4-7z47J97VsWg05jq-lhqFSdDPxR5fjj6f5g.fQoVWBr8DZ-rXkuX.Sl-rKgD6Hekqq6JhhT1Xpg)
+  * [Course Syllabus __](.utwente_base/ws2016/download.shtml?f=swEywnHmeYM_T0aoki8UD4nRAM2BHpbHbC-pc0S7uVat_IvmlshHsK2dA9nZiQI_BW0-uor6Lv8TzcG8gPGOCMlwSgiPx-b7K8YtC4zXvfUiKR0YBfD-kKuDOruwZkHX62Mp_uP23W7NnszDps-BvasWJOwImqpHqGYjBNTWAQPQESp6adwDht3fS6WqWmI7X63Yv96t2IxR-cLMsfGd892vXQcsSNgwOJ6qSPZS8QF4w0jMN2zaAyuyAvmkYz_VENuiSdTFVFkxXCDwGRATtcb_WQ32JnB3.sCl99_dkgqyD-Rpi.vTDX2ESsHO4jY7LsoToLig)
+  * [Public Transport Information UTW __](.utwente_base/ws2016/download.shtml?f=9Z_hcSMC5c0rSbfqEnLPqPjMoNm0jC9X_rL3L6TE7bSPOiKLESyIKguqMk6lpGuti7wcJWAtCJrEynY3M3TrFe9MsIrNiKF_BpJB6_uumqfRmA0FSFOlhDCV5PcLrvQdL-pOku0p5pObR_6JZi8XihAQXIcZGXKQTWkeUmOifiO1v2NSsjjCUD84dZk-N6KkfbFzOULJulYx2-T1ZgpI4-L_a9HrGqzGfbg-bWDlmnUJeOszwY4-7z47J97VsWg05jq-lhqFSdDPxR5fjj6f5g.fQoVWBr8DZ-rXkuX.Sl-rKgD6Hekqq6JhhT1Xpg)
 
 ## Contact
 
 In case of questions, feel free to reach out to Dr. van Heeswijk.
 
-![Picture of J.R.O. Osterrieder \(Jörg\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=-NA-3dswK-joEDMIKxhVx5cR2aNsjKLOSF-1pbUCzzti61MAhsBOZrAmeKmfdjeHH3HVetp4-0wSrzZX3rSQMQR_LguYz-XHIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8H2CERuDbm9NW_AYjJDw6v-aPY-f4zir2s)
 
 J.R.O. Osterrieder (Jörg) Associate Professor of Artificial Intelligence and Finance
 
 [Personal page](https://people.utwente.nl/joerg.osterrieder)
 
-![Picture of dr. F.S. Bernard \(Frédérik\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-tijFADnhI9G0nNZcR2aNsjKLOSF-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8ERCDp0Wh6ReZw9O5RDHXqJGe98t1jbjak)
 
 dr. F.S. Bernard (Frédérik) Researcher
 
 [+31534895927](tel:+31534895927)[ f.s.bernard@utwente.nl](mailto:f.s.bernard@utwente.nl)[Building: Ravelijn 4408](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/f.s.bernard)
 
-![Picture of dr.ir. W.J.A. van Heeswijk \(Wouter\)](images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png-6bcDqvDBBVNlZcR2aNsjKLOSF-1pbUCzzuGKJ5wO6JMuIW2hMju9XubmaJvh53mTYyH8TBu0GSgtGjOtD7n_7WVIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8HQihx3suW2ZDsJiRW1OVFZKsTlnorPPzU)
 
 dr.ir. W.J.A. van Heeswijk (Wouter) Assistant Professor
 

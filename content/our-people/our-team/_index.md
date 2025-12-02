@@ -35,33 +35,33 @@ The UT team, led by Prof. Dr. J. van Hillegersberg, consist of 2 full professors
 
 ### ING
 
-[M. Haverkamp]()  
-[V. Etesse]()  
-[B. Raftari Tangabi]()  
-[A. Mukherjee]()  
-[F.M. Jansen]()  
-[M.A. Baak]()  
-[M.J.J. van den Broeck]()  
-[L. Dusée]()  
-[R. Falhas Santos]()  
-[A. Gervasani]()  
-[Y. Li]()  
-[A.C. Fraser]()  
-[A. Bleumer]()  
-[I. Paap]()  
-[L. van Alst-Leendertse]()  
-[K. van Valckenborgh]()  
-[E. Pavlovskii]()  
-[R. Stam]()  
-[J. Beltman]()  
-[D. Kok]()  
-[S. Goldmann]()  
-[S. van der Pol]()  
+M. Haverkamp  
+V. Etesse  
+B. Raftari Tangabi  
+A. Mukherjee  
+F.M. Jansen  
+M.A. Baak  
+M.J.J. van den Broeck  
+L. Dusée  
+R. Falhas Santos  
+A. Gervasani  
+Y. Li  
+A.C. Fraser  
+A. Bleumer  
+I. Paap  
+L. van Alst-Leendertse  
+K. van Valckenborgh  
+E. Pavlovskii  
+R. Stam  
+J. Beltman  
+D. Kok  
+S. Goldmann  
+S. van der Pol  
 
 ### Former Collaborators
 
-[A. Autar]()  
-[K. Tomak]()  
+A. Autar  
+K. Tomak  
 
 University of Twente
 

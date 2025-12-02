@@ -17,7 +17,7 @@ The objective is to enhance AI education by incorporating practical financial ap
 
 As part of the course 'Information Systems for the Financial Services Industry' over 50 students were invited to the headquarters of ING, located in Amsterdam, to participate in workshop on **Data Analytics** and**Quantitative Models** in**Banking and Academia**. 
 
-  * [Learn about the ING-UT Workshop 2025 __](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/AI-in-Finance/ING-UT-Workshop-Data-Analytics-and-Quantitative-Models/)
+  * [Learn about the ING-UT Workshop 2025 __](/The-Digital-Finance-Research-Programme/AI-in-Finance/ING-UT-Workshop-Data-Analytics-and-Quantitative-Models/)
 
 ## Educational Activities
 

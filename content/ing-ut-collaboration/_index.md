@@ -23,8 +23,8 @@ The collaboration has yielded 8 successfully completed Master's theses, and one 
 
 Additionally, PhD Candidate Leixin Zhang's research on obtaining a reliable confidence scores for generated answers with LLMs in a Retrieval-Augmented Generation (RAG) pipeline. The project aligns with the broader initiatives of multiple Generative AI projects within ING Bank, aimed at extracting data from vast quantities of documents.
 
-  * [Learn about UT Theses at ING __](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/)
-  * [Learn about project Leixin Zhang __](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/AI-in-Finance/Project-Leixin-Zhang/)
+  * [Learn about UT Theses at ING __](/ing-ut-collaboration/research/ing-theses/)
+  * [Learn about project Leixin Zhang __](/The-Digital-Finance-Research-Programme/AI-in-Finance/Project-Leixin-Zhang/)
 
 ### Research Projects
 
@@ -36,13 +36,13 @@ The team is leading or involved in several large European research projects focu
 
 ![](images/assets/digital-logo-461.png)
 
-  * [**Learn about our research projects** __](https://www.ai-in-finance.eu/ing-ut-collaboration/research/)
+  * [**Learn about our research projects** __](/ing-ut-collaboration/research/)
 
 ## Collaboration in Education
 
 Our collaboration extends into the classroom, where ING actively contributes to 10 courses at the University of Twente by delivering guest lectures and supplying industry problems for student projects.
 
-  * [**Learn about our education** __](https://www.ai-in-finance.eu/ing-ut-collaboration/Education/)
+  * [**Learn about our education** __](/ing-ut-collaboration/Education/)
 
 ## Funding
 
@@ -57,4 +57,4 @@ ING has committed to investing in public-private partnerships through Kickstart 
   * 8 successfully completed Master Theses at ING
   * 39 publications on Finance
 
-  * [Learn about output & impact of collaboration __](https://www.ai-in-finance.eu/ing-ut-collaboration/Output-and-Impact/)
+  * [Learn about output & impact of collaboration __](/ing-ut-collaboration/Output-and-Impact/)

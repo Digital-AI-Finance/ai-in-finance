@@ -18,6 +18,6 @@ draft: false
 ## Projects  
   
 
-[Network-based Credit Risk ModellingNetwork-based Credit Risk Modelling](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/SNSF/Network-based-Credit-Risk-Modelling/)
+[Network-based Credit Risk ModellingNetwork-based Credit Risk Modelling](/The-Digital-Finance-Research-Programme/SNSF/Network-based-Credit-Risk-Modelling/)
 
-[Narrative Digital FinanceNarrative Digital Finance](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/SNSF/Narrative%20Digital%20Finance/)
+[Narrative Digital FinanceNarrative Digital Finance](/The-Digital-Finance-Research-Programme/SNSF/Narrative%20Digital%20Finance/)
