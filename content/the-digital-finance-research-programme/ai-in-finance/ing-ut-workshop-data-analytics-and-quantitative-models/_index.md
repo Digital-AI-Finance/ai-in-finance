@@ -27,6 +27,8 @@ dr. Max Baak, ING Wholesale Banking Advanced Analytics
 
 ING Amsterdam, February 28, 2025
 
+![](/images/.wh/ea/uc/ife766a77010275093b04be6025022a36cde4524513020301c000/djng8zxtbvzqr0d6wcdgnq.png)
+
 Dear Participants,  
 We are delighted to welcome you to the ING – University of Twente Workshop on Data Analytics and Quantitative Models in Banking and Academia, taking place on February 28, 2025, at the ING headquarters in Amsterdam.  
 This workshop is a unique opportunity for professionals, academics, and students to come together and explore the latest developments in data analytics, finance, risk management, and artificial intelligence. By bringing together experts from ING and the University of Twente, we aim to strengthen collaboration between industry and academia, bridging the gap between theoretical research and practical application.  
@@ -116,6 +118,8 @@ Join us for coffee and drinks afterward to continue the conversations and networ
 
 The [MSCA Industrial Doctoral Network on Digital Finance](https://www.digital-finance-msca.com/) (2024-2027), funded by Horizon Europe, brings together top universities, research centers, and companies to train PhD students in new financial technologies. Academic partners include the University of Twente, WU Vienna, Poznan University of Economics, Universitatea Babeș-Bolyai, Kaunas University of Technology, RPTU, University of Pavia, University of Naples Federico II, American University of Sharjah, and Bern University of Applied Sciences. Industry and research partners are Fraunhofer, Deutsche Bank, Deutsche Börse Group, Raiffeisen Bank, Swedbank, BIS, EIT Digital, Royalton Partners, Quoniam Asset Management, Cardo AI, and Athena Research. Together, they focus on practical projects to help students build skills and create new solutions for the finance sector.
 
+![](/images/.wh/ea/uc/ic346bef1010209446f00be6025022a01e978a031fb300701c15604490280/pe56mvnud8u4ehsc0khldg.png)
+
 ## Event
 
 [Joerg Osterrieder](https://www.linkedin.com/in/joergosterrieder/) and [Anouk Bleumer](https://www.linkedin.com/in/anouk-bleumer/) organized and led the workshop, creating the program and enabling discussions on how academic research can be applied to industry challenges.
@@ -194,6 +198,8 @@ dr.ir. W.J.A. van Heeswijk (Wouter) Assistant Professor
 dr. X. Huang (Xiaohong) Assistant Professor
 
 [+31534893485](tel:+31534893485)[ x.huang@utwente.nl](mailto:x.huang@utwente.nl)[Building: Ravelijn 2317](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/x.huang)
+
+![Picture of A. Sadighi \(Armin\)](/images/.wh/ea/uc/i98dd3f0701027d372100be6025021558688a24b9ecbd0701c36400640085/armin-profile-pic.avif)
 
 A. Sadighi (Armin) PhD Candidate
 

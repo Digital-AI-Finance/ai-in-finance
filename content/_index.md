@@ -5,6 +5,8 @@ weight: 1
 draft: false
 ---
 
+![Leon Dusée, COO Risk Department, ING](/images/.wh/ea/uc/ic50eaa4a0102edfcf202e486a301a18d56b3cd6855b30701c30401040180/leon-dusee.png)
+
 > The collaboration between ING and UT has proven to be highly beneficial for all partners involved, significantly expanding ING's access to a highly educated talent base.
 
 Leon Dusée, COO Risk Department, ING
@@ -15,7 +17,7 @@ The **University of Twente** and the **ING Group** have put their signatures to 
 
 Jos van Hillegersberg, Professor of Business Information Systems at UT, and [Academic Director of Jheronimus Academy of Data Science](https://www.utoday.nl/news/70810/jos-van-hillegersberg-vertrekt-naar-den-bosch), is looking forward to the collaboration between UT and ING.
 
-![Jos van Hillegersberg, Prof. Dr.](/images/team/j_vanhillegersberg.jpg)
+![Jos van Hillegersberg, Prof. Dr.](/images/.wh/ea/uc/i3acacab70102f3fcf202e486a301cd445916019437e80701c30401040180/jos-van-hillegersberg.png)
 
 > We in the Netherlands have been pioneering and innovating applications involving artificial intelligence for quite some time. There are lots of opportunities in the financial sector. But we also ran into a problem: there’s an enormous demand for talent in the business community and academic world. Our partnership will help alleviate this shortage. The fact that ING will be actively investing in UT’s academic knowledge already says a lot.
 
@@ -27,7 +29,7 @@ Personalized Financial Service with AI
 
 For this partnership, final-year undergraduates, researchers and doctoral candidates will be focusing on the application of complex datasets in the financial sector.
 
-![Jos van Hillegersberg, Prof. Dr.](/images/team/j_vanhillegersberg.jpg)
+![Jos van Hillegersberg, Prof. Dr.](/images/.wh/ea/uc/id30668870102defcf202e486a301cd445916019437e80701c30401040180/jos-van-hillegersberg.png)
 
 > That might mean analysis of credit risks, detecting fraud, or advising the bank’s customers about investing, but it might also deal with how to use AI for the bank’s individual customers. Customers have to get back the feeling that they are accessing a personal service. The big banks are closing more and more of their offices and offering their customers services through a standard banking package. It’s not personalised anymore. But with AI we can change that. Some of it is already happening, but the performance of algorithms is still in its infancy. And there are many ethical and law-related issues in the financial world. What are algorithms allowed to do, and what are they not allowed to do? And who is responsible if things go wrong? In short: there’s still a lot to be done.
 
@@ -52,6 +54,8 @@ Dr. Marcos Machado is an Assistant Professor in Business and Information Systems
 ## ING - Stay in the Lead
 
 Anand Autar, Global Head Analytics Business Development at ING Group, and Kerem Tomak, Global Chief Analytics Officer, both underscore the importance of the agreement with UT on behalf of ING. They see many advantages in such a public-private partnership as this one ...
+
+![Anand Autar, \(Former\) Global Head Analytics Business Development ING](/images/.wh/ea/uc/i163ca36a0102e4fcf202e486a301d54e90e0416a3e4f0701c30401040180/anand-autar.png)
 
 > ING Group has always been in the lead when it comes to financial and technological developments, and we want it to stay that way. That’s the reason we think it’s essential to create a thriving AI ecosystem in the Netherlands that will be meaningful to our final consumers.
 

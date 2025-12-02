@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-![M. Machado, Dr.](/images/team/m_r_machado.jpg)
+![M. Machado, Dr.](/images/.wh/ea/uc/id121d93c0102eca2fa02e5fa78030c7a93552908e1cf0701c30401040180/marcos-machado.jpg)
 
 > Education is at the heart of advancing AI in finance. Our project not only bridges the gap between theoretical research and practical application but also equips the next generation of professionals with the necessary skills and knowledge to innovate and drive ethical AI solutions in the financial industry.
 

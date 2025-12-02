@@ -5,13 +5,15 @@ weight: 1
 draft: false
 ---
 
-![Joerg Osterrieder, Assoc. Dr.](/images/team/joerg_osterrieder.jpg)
+![Joerg Osterrieder, Assoc. Dr.](/images/.wh/ea/uc/i315595800102a9c9fa029dad2c0439a86ff2f217e2410701c30401040180/joerg-osterrieder.png)
 
 > I firmly believe in the transformative power of AI to revolutionize the financial industry. By fostering collaboration between academia and industry, we can unlock unprecedented opportunities for innovation, transparency, and efficiency. Our commitment to ethical AI practices ensures that these advancements benefit all stakeholders and contribute to a more inclusive and fair financial landscape
 
 Joerg Osterrieder, Assoc. Dr.
 
 ## Research Programme
+
+![](/images/.wh/ea/uc/i94dea9e0010254199a029dad2c041c72fe91350c0e770701c156043c0280/km7b4gvz0wjcyyg26fxiaa.png)
 
 The University of Twente - ING collaboration on Artificial Intelligence is part of a larger pan-European research programme on Digital Finance, where the University plays a leading role: In total, more than 360 researchers, 50 universities and 25 companies work together in various European research programmes.
 
@@ -96,5 +98,7 @@ The University of Twente - ING collaboration on Artificial Intelligence is part 
   * [Learn about Swiss National Science Foundation __](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/SNSF/)
 
 ## Our Research Team
+
+![](/images/.wh/ea/uc/i55d72886010256199a029dad2c04e3e9e5eb35d484510701c15604ce0280/wokhnvzddyhebyqk1ud-zq.png)
 
   * [ Learn about our research team __](https://www.ai-in-finance.eu/Our-People/Our-Team/)

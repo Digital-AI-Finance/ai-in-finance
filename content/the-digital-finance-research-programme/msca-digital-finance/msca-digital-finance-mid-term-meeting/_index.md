@@ -198,6 +198,8 @@ dr. E. Svetlova (Ekaterina) Associate Professor
 
 [+31534894278](tel:+31534894278)[ e.svetlova@utwente.nl](mailto:e.svetlova@utwente.nl)[Building: Ravelijn 2315](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/e.svetlova)
 
+![Picture of M. Jander \(Mathis\)](/images/.wh/ea/uc/iee665cdf0102108e6a001ad9fd013c55b0510e3c84550701c36400640085/mathis-jander.avif)
+
 M. Jander (Mathis) PhD Candidate
 
 [+31534897981](tel:+31534897981)[ mathis.jander@utwente.nl](mailto:mathis.jander@utwente.nl)
@@ -205,6 +207,8 @@ M. Jander (Mathis) PhD Candidate
 Building: 
 
 [Personal page](https://people.utwente.nl/mathis.jander)
+
+![Picture of A. Sadighi \(Armin\)](/images/.wh/ea/uc/iad4172560102158e6a001ad9fd019f44aad5d6ef38eb0701c36400640085/armin-sadighi.avif)
 
 A. Sadighi (Armin) PhD Candidate
 
@@ -215,6 +219,8 @@ A. Sadighi (Armin) PhD Candidate
 M. Massei (Manuele) PhD Candidate
 
 [+39 3401765370](tel:+39 3401765370)[ manuele.massei@utwente.nl](mailto:manuele.massei@utwente.nl)[Building: Ravelijn 3202](https://maps.google.com/maps?hl=en&daddr=52.239096%2C6.855672&z=15)[Personal page](https://people.utwente.nl/manuele.massei)
+
+![Picture of M. Faid \(Mohamed\)](/images/.wh/ea/uc/ia70175dd0102278e6a001ad9fd019468363113656a490701c36400640085/mohamed-faid.avif)
 
 M. Faid (Mohamed) PhD Candidate
 
