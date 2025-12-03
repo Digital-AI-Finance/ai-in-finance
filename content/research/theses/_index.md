@@ -1,24 +1,34 @@
 ---
-title: "Overview of ING-UT theses"
-description: ""
-weight: 1
-draft: false
+title: "Student Theses"
+description: "MSc theses completed at ING through the UT-ING collaboration"
+weight: 3
 ---
 
-[MSc Thesis Stijn van der PolThe Creation of an Explainable Artificial Intelligence Model to Enhance Interpretability and Transparency for ING in Their Fight Against Fraud](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-stijn-van-der-pol/)
+## MSc Theses at ING
 
-[MSc Thesis Amato AlessandraApplications of Early Warning Systems for Customer Segmentation of Wholesale Banking Clients](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-amato-alessandra/)
+Students from the University of Twente complete their MSc theses at ING Bank, working on real-world challenges in AI, data science, and financial technology.
 
-[MSc Thesis Jaap BeltmanDeveloping an Early Warning System for Retail Customer Deterioration: A Data-Driven Approach](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-jaap-beltman/)
+### Current Theses
 
-[MSc Thesis Daniel ChenDevelopment of Financial Distress Prediction Model for the Watchlist Classification of Wholesale Banking Clients at ING](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-Daniel-Chen/)
+| Student | Topic | Focus Area |
+|---------|-------|------------|
+| [Amato Alessandra](/research/theses/amato-alessandra/) | Early Warning Systems | Customer Segmentation |
+| [Daniel Chen](/research/theses/daniel-chen/) | AI Model Development | Risk Analysis |
+| [Dyon Kok](/research/theses/dyon-kok/) | Machine Learning | Banking Analytics |
+| [Jaap Beltman](/research/theses/jaap-beltman/) | Early Warning Systems | Default Prediction |
+| [Jens Reil](/research/theses/jens-reil/) | Quantitative Modeling | Financial Risk |
+| [Sebastian Goldmann](/research/theses/sebastian-goldmann/) | Data Analytics | Business Intelligence |
+| [Stijn van der Pol](/research/theses/stijn-van-der-pol/) | Explainable AI | Model Transparency |
+| [Thomas Koene](/research/theses/thomas-koene/) | Credit Risk | Model Development |
+| [Vitalii Fishchuk](/research/theses/vitalii-fishchuk/) | Deep Learning | Financial Forecasting |
 
-[MSc Thesis Sebastian GoldmannEnhancing Credit Risk Prediction in Retail Banking: Integrating Time Series and Classical ML Algorithms](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-sebastian-goldmann/)
+### Thesis Program Structure
 
-[MSc Thesis Dyon KokStakeholder-centric approach to applying machine learning to probability of default models](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-dyon-kok/)
+**UT Supervision**: Academic guidance from University of Twente professors
+**ING Supervision**: Industry mentorship from ING experts
+**Duration**: Typically 6-9 months
+**Output**: Academic thesis + practical implementation at ING
 
-[MSc Thesis Jens ReilEvaluating the Impact of Integration of ESG Factors in Credit Ratings Using External Credit Assessment Institutions for Corporates](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-jens-reil/)
+### Interested?
 
-[MSc Thesis Thomas KoeneNavigating Human Rights Due Diligence in Financial Institutions: Creating A Roadmap for Implementation](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-thomas-koene/)
-
-[MSc Thesis Vitalii Fishchuk[TENTATIVE] Automated Prompt Optimization for LLMs aimed at Maximizing Accuracy of Information Extraction from Sustainability Reports](https://www.ai-in-finance.eu/ing-ut-collaboration/research/ing-theses/thesis-vitalii-fishchuk/)
+Contact [Team](/team/) for information about thesis opportunities.

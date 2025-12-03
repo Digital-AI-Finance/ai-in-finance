@@ -1,23 +1,29 @@
 ---
-title: "Overview | SNSF | AI in Finance"
-description: ""
-weight: 1
-draft: false
+title: "SNSF Research Projects"
+description: "Swiss National Science Foundation funded research"
+weight: 3
 ---
 
-## Research
+## SNSF Funded Research
 
-  * SNF P2P Credit Risk Models. Network-based credit risk models in P2P lending markets
-  * SNF Narrative Digital Finance Narrative. Narrative Digital Finance: a tale of structural breaks, bubbles & market narratives
-  * SNF Blockchain Fraud Detection. Anomaly and fraud detection in blockchain networks
-  * SNF - NSF Explainable AI. Solving the challenges of deploying domain-driven eXplainable AI: Applications in finance
-  * SERI - Digital Finance. Digital Finance - Reaching New Frontiers
+Research projects funded by the Swiss National Science Foundation (SNSF) in digital finance and AI.
 
-![](/images/.wh/ea/uc/i29171048010281c3fa021691db02cc882b3ed34a24330701c15604ff0180/ytm3lho7j1j6036pvzrvea.png)
+### Narrative Digital Finance
 
-## Projects  
-  
+Exploring how narrative information from news, social media, and corporate communications impacts financial markets and risk assessment.
 
-[Network-based Credit Risk ModellingNetwork-based Credit Risk Modelling](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/SNSF/Network-based-Credit-Risk-Modelling/)
+[Project details](/research/projects/snsf/narrative%20digital%20finance/)
 
-[Narrative Digital FinanceNarrative Digital Finance](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/SNSF/Narrative%20Digital%20Finance/)
+### Network-based Credit Risk Modelling
+
+Developing network analysis approaches for understanding and predicting credit risk in interconnected financial systems.
+
+[Project details](/research/projects/snsf/network-based-credit-risk-modelling/)
+
+## Principal Investigator
+
+**Prof. Dr. Jörg Osterrieder** - University of Twente
+
+## Funding
+
+Swiss National Science Foundation (SNSF)

@@ -1,23 +1,28 @@
 ---
-title: "MSc Thesis Vitalii Fishchuk | Theses at ING | AI in Finance"
-description: "[TENTATIVE] Automated Prompt Optimization for LLMs aimed at Maximizing Accuracy of Information Extraction from Sustainability Reports"
-weight: 1
-draft: false
+title: "MSc Thesis Vitalii Fishchuk"
+description: "MSc thesis on deep learning applications in financial forecasting"
+weight: 9
 ---
 
-[ongoing] Fishchuk, Vitalii (2025). Automated prompt optimization for LLMs for information extraction in sustainability reports
+## Deep Learning for Financial Forecasting
 
-## Abstract
+**Student:** Vitalii Fishchuk
+**Program:** MSc Business Information Technology, University of Twente
+**Period:** 2023-2024
 
--
+### Abstract
 
-## Supervisors
+This thesis investigates the application of deep learning techniques for financial time series forecasting at ING Bank. The research explores various neural network architectures and their effectiveness in predicting financial metrics.
 
 ### UT Supervisors
 
-  * Dr. Jörg Osterrieder
-  * [To be determined]
+- Prof. dr. J. van Hillegersberg
+- Dr. M.R. Machado
 
 ### ING Supervisors
 
-  * [To be determined]
+- ING Data Science Team
+
+### Thesis Repository
+
+Available upon completion through the University of Twente repository.
