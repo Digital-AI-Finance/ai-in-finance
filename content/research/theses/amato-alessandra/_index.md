@@ -25,4 +25,4 @@ Wholesale Banking (WB) is evolving rapidly, and financial institutions are incre
 
 ## Thesis Repository
 
-  * [Link to thesis __](https://purl.utwente.nl/essays/97401)
+  * [Link to thesis](https://purl.utwente.nl/essays/97401)

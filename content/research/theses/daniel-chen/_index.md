@@ -24,4 +24,4 @@ An Early Warning System (EWS) is a tool that enables the monitoring of the credi
 
 ## Thesis Repository
 
-  * [Link to thesis __](https://purl.utwente.nl/essays/95110)
+  * [Link to thesis](https://purl.utwente.nl/essays/95110)

@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-![L. Duseé, COO Risk Department](/images/.wh/ea/uc/ia5d2431c01021eb1fa0234a42304a18d56b3cd6855b30701c30401040180/leon-dusee.png)
+![L. Duseé, COO Risk Department](/images/team/leon-dusee.png)
 
 > Our work in the AI in Finance project is dedicated to making a tangible impact on both the financial industry and society as a whole. By leveraging advanced AI technologies and fostering collaboration between academic and industry leaders, we are driving innovations that not only enhance financial services but also promote ethical and inclusive practices. This project is about creating solutions that have a real, positive effect on people's lives and the broader financial ecosystem
 
@@ -135,7 +135,7 @@ L. Duseé, COO Risk Department
 
 ## Executive Summary – 2025*
 
-_*Last updated June 07, 2025_
+_*Last updated June 07, 2024_
 
 ### MSc thesis supervision (joint with ING)
 
@@ -311,9 +311,9 @@ One of the largest and the most active COST Action in Europe
 
 ## COST Dissimenation and Outreach
 
-![](/images/.wh/ea/uc/ie74e2b9f0102cf4d9a0234a423040edb5c4a0bc22b0c0701c15604b80380/ryhbcxeewwnfjoii9pxthg.png)
+![](/images/team/ryhbcxeewwnfjoii9pxthg.png)
 
-![](/images/.wh/ea/uc/i4bec736b0102ce4d9a0234a42304fbbbd8ecb29fb08f0701c15604d90280/dof0au-uqljihkqkyfpbea.png)
+![](/images/team/dof0au-uqljihkqkyfpbea.png)
 
 ### Academic papers (entire network)
 

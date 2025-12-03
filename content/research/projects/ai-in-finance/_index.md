@@ -1,6 +1,6 @@
 ---
 title: "Overview | AI in Finance"
-description: ""
+description: "ING-UT joint research program on AI applications in banking and finance"
 weight: 1
 draft: false
 ---
@@ -47,10 +47,10 @@ draft: false
 ## Projects and Events  
   
 
-[ING-UT collaboration: AI in Finance](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/AI-in-Finance/University-of-Twente-and-ING-Bank-Join-Up-to-Form-AI-in-Finance/)
+[ING-UT collaboration: AI in Finance](/research/projects/ai-in-finance/University-of-Twente-and-ING-Bank-Join-Up-to-Form-AI-in-Finance/)
 
-[ING-UT Workshop 2025](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/AI-in-Finance/ING-UT-Workshop-Data-Analytics-and-Quantitative-Models/)
+[ING-UT Workshop 2025](/research/projects/ai-in-finance/ing-ut-workshop-data-analytics-and-quantitative-models/)
 
-[Guest Lecture ING 2025](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/AI-in-Finance/Guest-Lecture-ING-2025/)
+[Guest Lecture ING 2025](/research/projects/ai-in-finance/guest-lecture-ing-2025/)
 
-[Project Leixin Zhang](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/AI-in-Finance/Project-Leixin-Zhang/)
+[Project Leixin Zhang](/research/projects/ai-in-finance/Project-Leixin-Zhang/)

@@ -207,18 +207,18 @@ The [MSCA Industrial Doctoral Network on Digital Finance](https://www.digital-fi
 
 ## Event Repository
 
-  * [Official Event Page __](https://finnex.ro/ethics-in-ai-and-digital-finance-training-school-msca-digital-event/)
+  * [Official Event Page](https://finnex.ro/ethics-in-ai-and-digital-finance-training-school-msca-digital-event/)
 
 ## Event Highlights
 
-  * [LinkedIn Post on Event 2 __](https://www.linkedin.com/posts/digital-finance-msca_aiethics-digitalfinance-phdtraining-activity-7289380038456627200-c3m3?utm_source=share&utm_medium=member_desktop)
-  * [LinkedIn Post on Event 3 __](https://www.linkedin.com/posts/digital-finance-msca_aiethics-digitalfinance-doctoraltraining-ugcPost-7287159935723843584-sAv3?utm_source=share&utm_medium=member_desktop)
+  * [LinkedIn Post on Event 2](https://www.linkedin.com/posts/digital-finance-msca_aiethics-digitalfinance-phdtraining-activity-7289380038456627200-c3m3?utm_source=share&utm_medium=member_desktop)
+  * [LinkedIn Post on Event 3](https://www.linkedin.com/posts/digital-finance-msca_aiethics-digitalfinance-doctoraltraining-ugcPost-7287159935723843584-sAv3?utm_source=share&utm_medium=member_desktop)
 
 ## Contact
 
 In case of questions, feel free to reach out to Dr. Benard.
 
-![Picture of dr. F.S. Bernard \(Frédérik\)](/images/.publisher/sd/utwente_base/ws2016/img/people-placeholder.png#replace=kKV-Lo9MbwqKJelxBkxtQpcR2aNsjKLOSF-1pbUCzzvRPq0x7AK6SEM-67DCAALz-Bj_y49GphEkHeD5Z7y6l-77RSuhBD1hIipITGBpEWJ53ZnL5X-OdcLjhmbMGuzc12H_Z6iXWUb9k-i-Zul5b3Hwo1eS2wZnc1HXIjxjyzzsL_iGADBjE2w3Fl7fYQNFCpWWdVxpu8GneXGCTd0v2KV71n8zhF_1d-yCW31_5x4)
+![Picture of dr. F.S. Bernard \(Frédérik\)](/images/team/placeholder.avif)
 
 dr. F.S. Bernard (Frédérik) Researcher
 

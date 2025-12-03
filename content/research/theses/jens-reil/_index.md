@@ -24,4 +24,4 @@ This thesis examines the integration of Environmental, Social, and Governance (E
 
 ## Thesis Repository
 
-  * [Link to thesis __](https://purl.utwente.nl/essays/105204)
+  * [Link to thesis](https://purl.utwente.nl/essays/105204)

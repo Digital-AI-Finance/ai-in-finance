@@ -48,6 +48,6 @@ draft: false
 ## Training Events  
   
 
-[Reinforcement Learning in Digital Finance](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/MSCA-Digital-Finance/Doctoral-Training/Reinforcement-Learning-in-Digital-Finance/)
+[Reinforcement Learning in Digital Finance](/research/projects/msca-digital-finance/Doctoral-Training/Reinforcement-Learning-in-Digital-Finance/)
 
-[Ethics in AI and Digital Finance Training Week](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/MSCA-Digital-Finance/Doctoral-Training/Ethics-in-AI-and-Digital-Finance-Training-Week/)
+[Ethics in AI and Digital Finance Training Week](/research/projects/msca-digital-finance/Doctoral-Training/Ethics-in-AI-and-Digital-Finance-Training-Week/)

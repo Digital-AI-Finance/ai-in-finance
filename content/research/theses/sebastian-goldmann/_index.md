@@ -24,4 +24,4 @@ This thesis investigates the application of Time Series Classification (TSC) alg
 
 ## Thesis Repository
 
-  * [Link to thesis __](https://purl.utwente.nl/essays/98283)
+  * [Link to thesis](https://purl.utwente.nl/essays/98283)

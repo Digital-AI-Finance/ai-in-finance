@@ -24,4 +24,4 @@ This thesis presents the development of an Explainable Artificial Intelligence (
 
 ## Thesis Repository
 
-  * [Link to thesis __](https://purl.utwente.nl/essays/103614)
+  * [Link to thesis](https://purl.utwente.nl/essays/103614)

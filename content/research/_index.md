@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-![Joerg Osterrieder, Assoc. Dr.](/images/.wh/ea/uc/i2ab74ff4010266aff302d33b620339a86ff2f217e2410701c30401040180/joerg-osterrieder.png)
+![Joerg Osterrieder, Assoc. Dr.](/images/team/joerg-osterrieder.png)
 
 > Working together on this collaboration between UT and ING has personally highlighted the incredible outcomes of blending academic research with industry expertise, especially through our successful joint projects in AI for finance.
 
@@ -17,9 +17,9 @@ This collaboration aims to explore and develop advanced AI applications in the f
 
 European Research Projects
 
-  * [Kickstart AIA national initiative to promote AI in the Netherlands __](https://www.kickstart.ai/)
-  * [COST Fintech and Artificial Intelligence in Finance A European research project with 360 researchers from 51 countries globally __](https://www.cost.eu/actions/CA19130/)
-  * [MSCA Industrial Doctoral Network on Digital Finance A European Research and Doctoral Training Programme with 17 Doctoral Candidates across 5 research topics __](https://www.digital-finance-msca.com/)
+  * [Kickstart AIA national initiative to promote AI in the Netherlands](https://www.kickstart.ai/)
+  * [COST Fintech and Artificial Intelligence in Finance A European research project with 360 researchers from 51 countries globally](https://www.cost.eu/actions/CA19130/)
+  * [MSCA Industrial Doctoral Network on Digital Finance A European Research and Doctoral Training Programme with 17 Doctoral Candidates across 5 research topics](https://www.digital-finance-msca.com/)
 
 ## Research Topics
 

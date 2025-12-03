@@ -24,4 +24,4 @@ This research investigates how financial institutions (FIs) can effectively impl
 
 ## Thesis Repository
 
-  * [Link to thesis __](https://purl.utwente.nl/essays/106352)
+  * [Link to thesis](https://purl.utwente.nl/essays/106352)

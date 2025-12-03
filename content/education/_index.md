@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-![M. Machado, Dr.](/images/.wh/ea/uc/id121d93c0102eca2fa02e5fa78030c7a93552908e1cf0701c30401040180/marcos-machado.jpg)
+![M. Machado, Dr.](/images/team/marcos-machado.jpg)
 
 > Education is at the heart of advancing AI in finance. Our project not only bridges the gap between theoretical research and practical application but also equips the next generation of professionals with the necessary skills and knowledge to innovate and drive ethical AI solutions in the financial industry.
 
@@ -15,9 +15,9 @@ The objective is to enhance AI education by incorporating practical financial ap
 
 ## Exposing Students to Industry
 
-As part of the course 'Information Systems for the Financial Services Industry' over 50 students were invited to the headquarters of ING, located in Amsterdam, to participate in workshop on **Data Analytics** and**Quantitative Models** in**Banking and Academia**. 
+As part of the course 'Information Systems for the Financial Services Industry' over 50 students were invited to the headquarters of ING, located in Amsterdam, to participate in workshop on **Data Analytics** and **Quantitative Models** in **Banking and Academia**. 
 
-  * [Learn about the ING-UT Workshop 2025 __](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/AI-in-Finance/ING-UT-Workshop-Data-Analytics-and-Quantitative-Models/)
+  * [Learn about the ING-UT Workshop 2025](/research/projects/ai-in-finance/ing-ut-workshop-data-analytics-and-quantitative-models/)
 
 ## Educational Activities
 
@@ -25,4 +25,4 @@ The University of Twente offers several courses related to finance and AI. The c
 
 Joint Educational Activities
 
-[Information Systems for the Financial Services Industry](x-ut-courselink:194105070)[Reinforcement Learning with Applications](x-ut-courselink:202100233)[Smart Industry Systems](x-ut-courselink:202000028)[Applications of AI in Business](x-ut-courselink:202200345)[Research Project (BIT)](x-ut-courselink:202001051)[Business Process Management (IEM)](x-ut-courselink:202000403)[Enterprise Software for the Integration of Administrative Processes](x-ut-courselink:202300002)[Business Process Management (BIT)](x-ut-courselink:202300242)[Research Project (TCS)](x-ut-courselink:202300106)[Electronic Commerce](x-ut-courselink:192320501)
+[Information Systems for the Financial Services Industry](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=194105070)[Reinforcement Learning with Applications](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=202100233)[Smart Industry Systems](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=202000028)[Applications of AI in Business](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=202200345)[Research Project (BIT)](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=202001051)[Business Process Management (IEM)](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=202000403)[Enterprise Software for the Integration of Administrative Processes](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=202300002)[Business Process Management (BIT)](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=202300242)[Research Project (TCS)](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=202300106)[Electronic Commerce](https://osiris.utwente.nl/student/OndersZoek.do?searchCode=192320501)

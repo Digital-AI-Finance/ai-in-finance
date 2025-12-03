@@ -5,7 +5,7 @@ weight: 1
 draft: false
 ---
 
-[ Previous event]()[Next event ]()
+**Previous event****Next event**
 
 Monday 3 - Friday 7 February 2025
 

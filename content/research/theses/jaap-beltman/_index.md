@@ -25,4 +25,4 @@ This thesis addresses the existing gap in literature concerning the prevention o
 
 ## Thesis Repository
 
-  * [Link to thesis __](https://purl.utwente.nl/essays/96525)
+  * [Link to thesis](https://purl.utwente.nl/essays/96525)

@@ -12,7 +12,7 @@ Research projects funded by the Swiss National Science Foundation (SNSF) in digi
 
 Exploring how narrative information from news, social media, and corporate communications impacts financial markets and risk assessment.
 
-[Project details](/research/projects/snsf/narrative%20digital%20finance/)
+[Project details](/research/projects/snsf/narrative-digital-finance/)
 
 ### Network-based Credit Risk Modelling
 

@@ -1,6 +1,6 @@
 ---
 title: "Overview | MSCA Digital Finance | AI in Finance"
-description: ""
+description: "Marie Curie doctoral network on digital finance research"
 weight: 1
 draft: false
 ---
@@ -44,8 +44,8 @@ draft: false
 
 Doctoral Training
 
-  * [Overview](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/MSCA-Digital-Finance/Doctoral-Training/)
-  * [Reinforcement Learning in Digital Finance](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/MSCA-Digital-Finance/Doctoral-Training/Reinforcement-Learning-in-Digital-Finance/)
-  * [Ethics in AI and Digital Finance Training Week](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/MSCA-Digital-Finance/Doctoral-Training/Ethics-in-AI-and-Digital-Finance-Training-Week/)
+  * [Overview](/research/projects/msca-digital-finance/Doctoral-Training/)
+  * [Reinforcement Learning in Digital Finance](/research/projects/msca-digital-finance/Doctoral-Training/Reinforcement-Learning-in-Digital-Finance/)
+  * [Ethics in AI and Digital Finance Training Week](/research/projects/msca-digital-finance/Doctoral-Training/Ethics-in-AI-and-Digital-Finance-Training-Week/)
 
-[MSCA Digital Finance Mid Term Meeting](https://www.ai-in-finance.eu/The-Digital-Finance-Research-Programme/MSCA-Digital-Finance/MSCA-Digital-Finance-Mid-Term-Meeting/)
+[MSCA Digital Finance Mid Term Meeting](/research/projects/msca-digital-finance/msca-digital-finance-mid-term-meeting/)

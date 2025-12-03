@@ -25,4 +25,4 @@ This thesis explores the integration of Explainable Machine Learning (XML) into 
 
 ## Thesis Repository
 
-  * [Link to thesis __](https://purl.utwente.nl/essays/98498)
+  * [Link to thesis](https://purl.utwente.nl/essays/98498)
