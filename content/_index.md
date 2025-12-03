@@ -37,6 +37,4 @@ We participate in major European research initiatives:
 
 ### Partners
 
-![Kickstart AI](/images/.wh/ea/uc/i9638d8cc0101be031402b9f2c101a4c88eed3df6c6bb0801c36400640085/kickstart-ai-logo-e1675093987628.avif)
-![FIN AI](/images/.wh/ea/uc/i3aca8c8f0101cee31402fa6f65019f4f4ef2a3ffd6bc0801c36400640085/fin-ai-logo.avif)
-![Digital Finance](/images/.wh/ea/uc/i4c3f1c1101012ee3140274ccd7014e1f5ad25c0fc6bd0801c36400640085/logo-digital-finance-300x90.avif)
+![Kickstart AI](/images/logos/kick-start-logo-long.png) ![FIN AI](/images/logos/fin-ai-logo-1472.png) ![Digital Finance](/images/logos/digital-logo-461.png)
