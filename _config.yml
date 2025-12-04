@@ -1,0 +1,86 @@
+title: "AI in Finance"
+description: "University of Twente and ING Bank collaboration on AI in Finance"
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Site settings
+baseurl: "/ai-in-finance"
+url: "https://digital-ai-finance.github.io"
+logo: /assets/images/logos/favicon.ico
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO & Social
+author: "Prof. Dr. Jos van Hillegersberg"
+locale: en_US
+twitter:
+  card: summary_large_image
+og_image: /images/project-image.jpg
+
+social:
+  name: "AI in Finance - UT & ING"
+  links:
+    - https://github.com/Digital-AI-Finance
+
+# Open Graph defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/project-image.jpg
+
+# Navigation menu items
+navigation:
+  - title: Home
+    url: "#home"
+  - title: Team
+    url: "#team"
+  - title: Research
+    url: "#research"
+  - title: Publications
+    url: "#publications"
+  - title: Events
+    url: "#events"
+  - title: Collaborations
+    url: "#collaborations"
+  - title: Funding
+    url: "#funding"
+  - title: Contact
+    url: "#contact"
+
+# Project metadata
+project:
+  name: "AI in Finance"
+  funder: "ING Bank / KickStart AI"
+  grant_number: "ING-UT Collaboration"
+  total_funding: "EUR 6M+"
+
+# Footer
+footer:
+  copyright: "2022-2025 Digital-AI-Finance"
+  links:
+    - title: GitHub
+      url: https://github.com/Digital-AI-Finance/ai-in-finance
+    - title: University of Twente
+      url: https://www.utwente.nl
+
+# Exclude from processing
+exclude:
+  - "*.py"
+  - "*.md.bak"
+  - README.md
+  - content/
+  - layouts/
+  - themes/
+  - config.toml
+  - raw_site/
+  - crawl_download/

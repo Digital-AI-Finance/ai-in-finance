@@ -1,0 +1,38 @@
+[
+  {
+    "title": "AI in Finance - ING-UT Collaboration",
+    "funder": "ING Bank / KickStart AI",
+    "amount": "EUR 2M+ (5 years)",
+    "grant_number": "N/A",
+    "period": "2021 - 2026",
+    "institution": "University of Twente",
+    "team": "J. van Hillegersberg (PI); J. Osterrieder, M. Machado, X. Huang (Researchers)"
+  },
+  {
+    "title": "MSCA Industrial Doctoral Network on Digital Finance",
+    "funder": "Horizon Europe (Marie Sklodowska-Curie Actions)",
+    "amount": "EUR 3.8M",
+    "grant_number": "101119635",
+    "period": "2024 - 2027",
+    "institution": "University of Twente (Coordinator)",
+    "team": "J. Osterrieder (Coordinator); 18 partner institutions across Europe"
+  },
+  {
+    "title": "COST Action CA19130 - FinAI",
+    "funder": "European Cooperation in Science and Technology",
+    "amount": "EUR 600K",
+    "grant_number": "CA19130",
+    "period": "2020 - 2024",
+    "institution": "Management Committee",
+    "team": "J. Osterrieder (Action Chair); 360 researchers from 51 countries"
+  },
+  {
+    "title": "Narrative Digital Finance",
+    "funder": "Swiss National Science Foundation (SNSF)",
+    "amount": "CHF 500K",
+    "grant_number": "SNSF Project",
+    "period": "2020 - 2024",
+    "institution": "ETH Zurich / ZHAW",
+    "team": "J. Osterrieder (PI)"
+  }
+]

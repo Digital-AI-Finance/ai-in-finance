@@ -1,5 +1,0 @@
-{{- $src := .Destination -}}
-{{- if hasPrefix $src "/" -}}
-  {{- $src = printf "%s%s" (strings.TrimSuffix "/" .Page.Site.BaseURL) $src -}}
-{{- end -}}
-<img src="{{ $src }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} />

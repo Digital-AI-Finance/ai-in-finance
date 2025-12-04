@@ -1,0 +1,284 @@
+[
+  {
+    "name": "prof.dr. J. van Hillegersberg (Jos)",
+    "role": "Full Professor",
+    "institution": "University of Twente",
+    "bio": "Scientific Director of JADS and Full Professor of Information Systems at UT. 30+ years experience in ICT research and industry applications.",
+    "image": "images/team/jvanhillegersberg.avif",
+    "email": "j.vanhillegersberg@utwente.nl",
+    "orcid": "0000-0002-4095-6082"
+  },
+  {
+    "name": "prof.dr.ir. M.R.K. Mes (Martijn)",
+    "role": "Full Professor",
+    "institution": "University of Twente",
+    "bio": "Full Professor at University of Twente, contributing to AI in Finance research.",
+    "image": "images/team/mrkmes.avif",
+    "email": "m.r.k.mes@utwente.nl"
+  },
+  {
+    "name": "J.R.O. Osterrieder (Jörg)",
+    "role": "Associate Professor",
+    "institution": "University of Twente",
+    "bio": "Action Chair of European COST FinAI network (360 researchers, 51 countries). Coordinator of MSCA Digital Finance doctoral network.",
+    "image": "images/team/joergosterrieder.avif",
+    "email": "joerg.osterrieder@utwente.nl",
+    "orcid": "0000-0003-2557-4153"
+  },
+  {
+    "name": "dr. M.R. Machado (Marcos)",
+    "role": "Assistant Professor",
+    "institution": "University of Twente",
+    "bio": "Research focus on machine learning algorithms and data science applications in banking.",
+    "image": "images/team/mrmachado.avif",
+    "email": "m.r.machado@utwente.nl"
+  },
+  {
+    "name": "dr. X. Huang (Xiaohong)",
+    "role": "Assistant Professor",
+    "institution": "University of Twente",
+    "bio": "Research interests in AI applications, data analytics, and digital transformation.",
+    "image": "images/team/xhuang.avif",
+    "email": "x.huang@utwente.nl"
+  },
+  {
+    "name": "dr. F.S. Bernard (Frédérik)",
+    "role": "Researcher",
+    "institution": "University of Twente",
+    "bio": "Researcher at University of Twente, contributing to AI in Finance research.",
+    "image": "images/team/fsbernard.avif",
+    "email": "f.s.bernard@utwente.nl"
+  },
+  {
+    "name": "dr. C. Kolb (Christina)",
+    "role": "Assistant Professor",
+    "institution": "University of Twente",
+    "bio": "Assistant Professor at University of Twente, contributing to AI in Finance research.",
+    "image": "images/team/ckolb.avif",
+    "email": "c.kolb@utwente.nl"
+  },
+  {
+    "name": "dr. R. Effing (Robin)",
+    "role": "Assistant Professor",
+    "institution": "University of Twente",
+    "bio": "Assistant Professor at University of Twente, contributing to AI in Finance research.",
+    "image": "images/team/reffing.avif",
+    "email": "r.effing@utwente.nl"
+  },
+  {
+    "name": "A. Trivella (Alessio)",
+    "role": "Assistant Professor",
+    "institution": "University of Twente",
+    "bio": "Assistant Professor at University of Twente, contributing to AI in Finance research.",
+    "image": "images/team/atrivella.avif",
+    "email": "a.trivella@utwente.nl"
+  },
+  {
+    "name": "dr. P. Khrennikova (Polina)",
+    "role": "Assistant Professor",
+    "institution": "University of Twente",
+    "bio": "Assistant Professor at University of Twente, contributing to AI in Finance research.",
+    "image": "images/team/pkhrennikova.avif",
+    "email": "p.khrennikova@utwente.nl"
+  },
+  {
+    "name": "dr. J.A. Hüllmann MSc (Joschka)",
+    "role": "Assistant Professor",
+    "institution": "University of Twente",
+    "bio": "Assistant Professor at University of Twente, contributing to AI in Finance research.",
+    "image": "images/team/jhuellmann.avif",
+    "email": "j.huellmann@utwente.nl"
+  },
+  {
+    "name": "M. Haverkamp",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Cross Model Analytics at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/markus-haverkamp.avif",
+    "email": "markus.haverkamp@ing.com"
+  },
+  {
+    "name": "V. Etesse",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Model Risk Management at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/voichita-etesse.avif",
+    "email": "voichita.etesse@ing.com"
+  },
+  {
+    "name": "B. Raftari Tangabi",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Model Risk Management at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/behrouz-raftari-tangabi.avif",
+    "email": "behrouz.raftari.tangabi@ing.com"
+  },
+  {
+    "name": "A. Mukherjee",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Model Risk Management at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/ayan-mukherjee.avif",
+    "email": "ayan.mukherjee@ing.com"
+  },
+  {
+    "name": "F.M. Jansen",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Data Science Wholesale Banking at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/fabian-jansen.avif",
+    "email": "fabian.jansen@ing.com"
+  },
+  {
+    "name": "M.A. Baak",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Data Science Wholesale Banking at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/max-baak.avif",
+    "email": "max.baak@ing.com"
+  },
+  {
+    "name": "M.J.J. van den Broeck",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Credit Risk Modelling at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/mischa-van-den-broek.avif",
+    "email": "mischa.van.den.broeck@ing.com"
+  },
+  {
+    "name": "L. Dusée",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "COO Risk Department at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/leon-dusee.avif",
+    "email": "leon.dusee@ing.com"
+  },
+  {
+    "name": "R. Falhas Santos",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Data Analytics Team at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/rui-falhas-santos.avif",
+    "email": "rui.falhas.santos@ing.com"
+  },
+  {
+    "name": "A. Gervasani",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Terra Lead ING Climate Strategy at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/alberto-gervasini.avif",
+    "email": "alberto.gervasini@ing.com"
+  },
+  {
+    "name": "Y. Li",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Product Lead ModelING Platform at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/yuan-li.avif",
+    "email": "yuan.li@ing.com"
+  },
+  {
+    "name": "A.C. Fraser",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Product Lead Testing Team at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/ayisha-cecile-fraser.avif",
+    "email": "ayisha.cecile.fraser@ing.com"
+  },
+  {
+    "name": "A. Bleumer",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "COO Risk Air Traffic Control at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/anouk-bleumer.avif",
+    "email": "anouk.bleumer@ing.com"
+  },
+  {
+    "name": "I. Paap",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Tribe Lead Asset Liability Management at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/ivar-paap.avif",
+    "email": "ivar.paap@ing.com"
+  },
+  {
+    "name": "L. van Alst-Leendertse",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Finance & Risk Reporting at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/lesley-van-alst-leendertse.avif",
+    "email": "lesley.van.alst.leendertse@ing.com"
+  },
+  {
+    "name": "K. van Valckenborgh",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Lead Model Development Wholesale at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/karl-van-valckenborgh.avif",
+    "email": "karl.van.valckenborgh@ing.com"
+  },
+  {
+    "name": "E. Pavlovskii",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Risk Management Expert at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/placeholder.avif",
+    "email": "evgenii.pavlovskii@ing.com"
+  },
+  {
+    "name": "R. Stam",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Senior Model Validator at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/remco-stam.avif",
+    "email": "remco.stam@ing.com"
+  },
+  {
+    "name": "J. Beltman",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Business Analyst at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/jaap-beltman.avif",
+    "email": "jaap.beltman@ing.com"
+  },
+  {
+    "name": "D. Kok",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Business Analyst at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/dyon-kok.avif",
+    "email": "dyon.kok@ing.com"
+  },
+  {
+    "name": "S. Goldmann",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Consultant at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/sebastian-goldmann.avif",
+    "email": "sebastian.goldmann@ing.com"
+  },
+  {
+    "name": "S. van der Pol",
+    "role": "ING Expert",
+    "institution": "ING Bank",
+    "bio": "Business Analyst at ING Bank, supporting the ING-UT collaboration.",
+    "image": "images/team/stijn-van-der-pol.avif",
+    "email": "stijn.van.der.pol@ing.com"
+  },
+  {
+    "name": "A. Autar",
+    "role": "Former Member",
+    "institution": "Former Collaborator",
+    "bio": "Former collaborator in AI and Finance research.",
+    "image": "images/team/anand-autar.avif",
+    "email": ""
+  },
+  {
+    "name": "K. Tomak",
+    "role": "Former Member",
+    "institution": "Former Collaborator",
+    "bio": "Former collaborator in AI and Finance research.",
+    "image": "images/team/kerem-tomak.avif",
+    "email": ""
+  }
+]
